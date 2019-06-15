@@ -1,0 +1,1796 @@
+Starting program at 12:02:15
+[12:02:15][Main thread] Setting up ...
+[12:02:15][Main thread] Starting data aquisition thread
+[12:02:15][Main thread] Starting main loop
+[12:02:16][Data thread] Aquired local data #1: Temp = 25.6 Humidity = 52
+[12:03:16][Data thread] Aquired local data #2: Temp = 25.7 Humidity = 55
+[12:04:16][Data thread] Aquired local data #3: Temp = 25.6 Humidity = 56
+[12:05:18][Data thread] Aquired local data #4: Temp = 25.6 Humidity = 53
+[12:06:17][Data thread] Aquired local data #5: Temp = 25.6 Humidity = 55
+[12:07:17][Data thread] Aquired local data #6: Temp = 25.6 Humidity = 56
+[12:08:18][Data thread] Aquired local data #7: Temp = 25.5 Humidity = 53
+[12:09:19][Data thread] Aquired local data #8: Temp = 25.6 Humidity = 53
+[12:10:18][Data thread] Aquired local data #9: Temp = 25.6 Humidity = 53
+[12:11:17][Data thread] Aquired local data #10: Temp = 25.6 Humidity = 56
+[12:12:17][Data thread] Aquired local data #11: Temp = 25.5 Humidity = 56
+[12:13:17][Data thread] Aquired local data #12: Temp = 25.6 Humidity = 56
+[12:14:18][Data thread] Aquired local data #13: Temp = 25.6 Humidity = 53
+[12:15:19][Data thread] Aquired local data #14: Temp = 25.6 Humidity = 54
+[12:16:17][Data thread] Aquired local data #15: Temp = 25.6 Humidity = 56
+[12:17:18][Data thread] Aquired local data #16: Temp = 25.6 Humidity = 53
+[12:18:19][Data thread] Aquired local data #17: Temp = 25.6 Humidity = 53
+[12:19:17][Data thread] Aquired local data #18: Temp = 25.6 Humidity = 55
+[12:20:17][Data thread] Aquired local data #19: Temp = 25.6 Humidity = 55
+[12:21:21][Data thread] Aquired local data #20: Temp = 25.6 Humidity = 52
+[12:22:17][Data thread] Aquired local data #21: Temp = 25.6 Humidity = 55
+[12:23:18][Data thread] Aquired local data #22: Temp = 25.6 Humidity = 52
+[12:24:19][Data thread] Aquired local data #23: Temp = 25.6 Humidity = 52
+[12:25:20][Data thread] Aquired local data #24: Temp = 25.6 Humidity = 52
+[12:26:20][Data thread] Aquired local data #25: Temp = 25.6 Humidity = 52
+[12:27:20][Data thread] Aquired local data #26: Temp = 25.6 Humidity = 52
+[12:28:21][Data thread] Aquired local data #27: Temp = 25.6 Humidity = 52
+[12:29:18][Data thread] Aquired local data #28: Temp = 25.6 Humidity = 55
+[12:30:18][Data thread] Aquired local data #29: Temp = 25.6 Humidity = 55
+[12:31:19][Data thread] Aquired local data #30: Temp = 25.6 Humidity = 52
+[12:32:19][Data thread] Aquired local data #31: Temp = 25.6 Humidity = 52
+[12:33:20][Data thread] Aquired local data #32: Temp = 25.6 Humidity = 53
+[12:34:18][Data thread] Aquired local data #33: Temp = 25.6 Humidity = 56
+[12:35:18][Data thread] Aquired local data #34: Temp = 25.6 Humidity = 56
+[12:36:19][Data thread] Aquired local data #35: Temp = 25.6 Humidity = 54
+[12:37:23][Data thread] Aquired local data #36: Temp = 25.7 Humidity = 55
+[12:38:18][Data thread] Aquired local data #37: Temp = 25.7 Humidity = 59
+[12:39:18][Data thread] Aquired local data #38: Temp = 25.7 Humidity = 61
+[12:40:22][Data thread] Aquired local data #39: Temp = 25.7 Humidity = 58
+[12:41:19][Data thread] Aquired local data #40: Temp = 25.7 Humidity = 58
+[12:42:19][Data thread] Aquired local data #41: Temp = 25.7 Humidity = 58
+[12:43:19][Data thread] Aquired local data #42: Temp = 25.7 Humidity = 58
+[12:44:18][Data thread] Aquired local data #43: Temp = 25.7 Humidity = 61
+[12:45:18][Data thread] Aquired local data #44: Temp = 25.7 Humidity = 61
+[12:46:22][Data thread] Aquired local data #45: Temp = 25.7 Humidity = 61
+[12:47:22][Data thread] Aquired local data #46: Temp = 25.8 Humidity = 64
+[12:48:19][Data thread] Aquired local data #47: Temp = 25.8 Humidity = 66
+[12:49:20][Data thread] Aquired local data #48: Temp = 25.8 Humidity = 65
+[12:50:19][Data thread] Aquired local data #49: Temp = 25.8 Humidity = 66
+[12:51:21][Data thread] Aquired local data #50: Temp = 25.8 Humidity = 64
+[12:52:20][Data thread] Aquired local data #51: Temp = 25.8 Humidity = 64
+[12:53:21][Data thread] Aquired local data #52: Temp = 25.8 Humidity = 63
+[12:54:20][Data thread] Aquired local data #53: Temp = 25.9 Humidity = 62
+[12:55:19][Data thread] Aquired local data #54: Temp = 25.9 Humidity = 62
+[12:56:19][Data thread] Aquired local data #55: Temp = 25.8 Humidity = 62
+[12:57:19][Data thread] Aquired local data #56: Temp = 25.8 Humidity = 63
+[12:58:19][Data thread] Aquired local data #57: Temp = 25.8 Humidity = 63
+[12:59:19][Data thread] Aquired local data #58: Temp = 25.8 Humidity = 62
+[13:00:20][Data thread] Aquired local data #59: Temp = 25.8 Humidity = 57
+[13:01:20][Data thread] Aquired local data #60: Temp = 25.8 Humidity = 58
+[13:02:15][Main thread] Attempting to get Cimis data for hour 12:00
+[13:02:16][Main thread] Cimis data not yet available. Will try again in one hour
+[13:02:18][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.7 Ave Humidity = 57
+[None, None, None, None, None, None, None, None, None, None, None, None, 25.668333333333344, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, 56.93333333333333, None, None, None, None, None, None, None, None, None, None, None]
+[13:02:20][Data thread] Aquired local data #1: Temp = 25.8 Humidity = 58
+[13:03:19][Data thread] Aquired local data #2: Temp = 25.8 Humidity = 59
+[13:04:19][Data thread] Aquired local data #3: Temp = 25.8 Humidity = 58
+[13:05:19][Data thread] Aquired local data #4: Temp = 25.8 Humidity = 58
+[13:06:19][Data thread] Aquired local data #5: Temp = 25.8 Humidity = 58
+[13:07:20][Data thread] Aquired local data #6: Temp = 25.7 Humidity = 58
+[13:08:20][Data thread] Aquired local data #7: Temp = 25.7 Humidity = 58
+[13:09:20][Data thread] Aquired local data #8: Temp = 25.7 Humidity = 57
+[13:10:20][Data thread] Aquired local data #9: Temp = 25.7 Humidity = 57
+[13:11:21][Data thread] Aquired local data #10: Temp = 25.7 Humidity = 54
+[13:12:21][Data thread] Aquired local data #11: Temp = 25.7 Humidity = 54
+[13:13:20][Data thread] Aquired local data #12: Temp = 25.7 Humidity = 57
+[13:14:21][Data thread] Aquired local data #13: Temp = 25.7 Humidity = 54
+[13:15:22][Data thread] Aquired local data #14: Temp = 25.7 Humidity = 54
+[13:16:20][Data thread] Aquired local data #15: Temp = 25.7 Humidity = 57
+[13:17:20][Data thread] Aquired local data #16: Temp = 25.7 Humidity = 57
+[13:18:20][Data thread] Aquired local data #17: Temp = 25.7 Humidity = 56
+[13:19:20][Data thread] Aquired local data #18: Temp = 25.7 Humidity = 56
+[13:20:20][Data thread] Aquired local data #19: Temp = 25.7 Humidity = 56
+[13:21:21][Data thread] Aquired local data #20: Temp = 25.7 Humidity = 53
+[13:22:25][Data thread] Aquired local data #21: Temp = 25.7 Humidity = 53
+[13:23:20][Data thread] Aquired local data #22: Temp = 25.7 Humidity = 56
+[13:24:24][Data thread] Aquired local data #23: Temp = 25.7 Humidity = 53
+[13:25:24][Data thread] Aquired local data #24: Temp = 25.7 Humidity = 53
+[13:26:22][Data thread] Aquired local data #25: Temp = 25.7 Humidity = 53
+[13:27:22][Data thread] Aquired local data #26: Temp = 25.7 Humidity = 53
+[13:28:23][Data thread] Aquired local data #27: Temp = 25.7 Humidity = 53
+[13:29:22][Data thread] Aquired local data #28: Temp = 25.7 Humidity = 53
+[13:30:24][Data thread] Aquired local data #29: Temp = 25.7 Humidity = 53
+[13:31:22][Data thread] Aquired local data #30: Temp = 25.7 Humidity = 53
+[13:32:21][Data thread] Aquired local data #31: Temp = 25.7 Humidity = 55
+[13:33:22][Data thread] Aquired local data #32: Temp = 25.7 Humidity = 53
+[13:34:23][Data thread] Aquired local data #33: Temp = 25.7 Humidity = 52
+[13:35:21][Data thread] Aquired local data #34: Temp = 25.7 Humidity = 55
+[13:36:21][Data thread] Aquired local data #35: Temp = 25.7 Humidity = 55
+[13:37:22][Data thread] Aquired local data #36: Temp = 25.7 Humidity = 52
+[13:38:23][Data thread] Aquired local data #37: Temp = 25.7 Humidity = 52
+[13:39:24][Data thread] Aquired local data #38: Temp = 25.7 Humidity = 52
+[13:40:22][Data thread] Aquired local data #39: Temp = 25.7 Humidity = 52
+[13:41:23][Data thread] Aquired local data #40: Temp = 25.7 Humidity = 52
+[13:42:22][Data thread] Aquired local data #41: Temp = 25.7 Humidity = 52
+[13:43:21][Data thread] Aquired local data #42: Temp = 25.6 Humidity = 55
+[13:44:22][Data thread] Aquired local data #43: Temp = 25.6 Humidity = 52
+[13:45:25][Data thread] Aquired local data #44: Temp = 25.6 Humidity = 52
+[13:46:21][Data thread] Aquired local data #45: Temp = 25.7 Humidity = 55
+[13:47:21][Data thread] Aquired local data #46: Temp = 25.7 Humidity = 55
+[13:48:21][Data thread] Aquired local data #47: Temp = 25.7 Humidity = 55
+[13:49:24][Data thread] Aquired local data #48: Temp = 25.6 Humidity = 52
+[13:50:24][Data thread] Aquired local data #49: Temp = 25.6 Humidity = 52
+[13:51:22][Data thread] Aquired local data #50: Temp = 25.7 Humidity = 55
+[13:52:22][Data thread] Aquired local data #51: Temp = 25.7 Humidity = 55
+[13:53:22][Data thread] Aquired local data #52: Temp = 25.6 Humidity = 55
+[13:54:23][Data thread] Aquired local data #53: Temp = 25.6 Humidity = 52
+[13:55:22][Data thread] Aquired local data #54: Temp = 25.6 Humidity = 55
+[13:56:22][Data thread] Aquired local data #55: Temp = 25.6 Humidity = 55
+[13:57:22][Data thread] Aquired local data #56: Temp = 25.6 Humidity = 55
+[13:58:22][Data thread] Aquired local data #57: Temp = 25.6 Humidity = 55
+[13:59:24][Data thread] Aquired local data #58: Temp = 25.6 Humidity = 52
+[14:00:22][Data thread] Aquired local data #59: Temp = 25.7 Humidity = 55
+[14:01:24][Data thread] Aquired local data #60: Temp = 25.6 Humidity = 52
+[14:02:16][Main thread] Attempting to get Cimis data for hour 12:00
+[14:02:16][Main thread] Obtained Cimis data for hour 12:00
+Date = 2019-06-09 Hour = 1200 Humidity = 54  Temperature = 26 Eto = 0.76
+[14:02:16][Main thread] Attempting to get local data for hour 12:00
+[14:02:16][Main thread] Obtained Local data for hour 12:00
+[14:02:16][Main thread] Local data ready for 12:00 ready: Ave Temp = 25.67 Ave Humidity = 57
+[14:02:16][Main thread] Turning on relay. Irrigate for 129.77105502983042 seconds
+[14:02:21][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.7 Ave Humidity = 54
+[None, None, None, None, None, None, None, None, None, None, None, None, None, 25.686666666666664, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, 54.46666666666667, None, None, None, None, None, None, None, None, None, None]
+[14:02:24][Data thread] Aquired local data #1: Temp = 25.1 Humidity = 154
+[14:03:24][Data thread] Aquired local data #2: Temp = 25.1 Humidity = 154
+[14:04:22][Data thread] Aquired local data #3: Temp = 25.1 Humidity = 155
+[14:04:26][Main thread] Turning off relay. Finished irrigation for hour 12:00
+[14:04:26][Main thread] Attempting to get Cimis data for hour 13:00
+[14:04:26][Main thread] Cimis data not yet available. Will try again in one hour
+[14:05:22][Data thread] Aquired local data #4: Temp = 25.6 Humidity = 54
+[14:06:23][Data thread] Aquired local data #5: Temp = 25.6 Humidity = 52
+[14:07:23][Data thread] Aquired local data #6: Temp = 25.6 Humidity = 52
+[14:08:24][Data thread] Aquired local data #7: Temp = 25.6 Humidity = 52
+[14:09:24][Data thread] Aquired local data #8: Temp = 25.5 Humidity = 52
+[14:10:26][Data thread] Aquired local data #9: Temp = 25.5 Humidity = 52
+[14:11:24][Data thread] Aquired local data #10: Temp = 25.3 Humidity = 52
+[14:12:23][Data thread] Aquired local data #11: Temp = 25.4 Humidity = 55
+[14:13:23][Data thread] Aquired local data #12: Temp = 25.3 Humidity = 55
+[14:14:23][Data thread] Aquired local data #13: Temp = 25.2 Humidity = 55
+[14:15:23][Data thread] Aquired local data #14: Temp = 25.1 Humidity = 55
+[14:16:24][Data thread] Aquired local data #15: Temp = 25.0 Humidity = 52
+[14:17:24][Data thread] Aquired local data #16: Temp = 24.9 Humidity = 52
+[14:18:25][Data thread] Aquired local data #17: Temp = 24.8 Humidity = 52
+[14:19:23][Data thread] Aquired local data #18: Temp = 24.8 Humidity = 55
+[14:20:24][Data thread] Aquired local data #19: Temp = 24.8 Humidity = 52
+[14:21:23][Data thread] Aquired local data #20: Temp = 24.8 Humidity = 54
+[14:22:25][Data thread] Aquired local data #21: Temp = 24.8 Humidity = 52
+[14:23:23][Data thread] Aquired local data #22: Temp = 24.8 Humidity = 54
+[14:24:24][Data thread] Aquired local data #23: Temp = 24.9 Humidity = 51
+[14:25:24][Data thread] Aquired local data #24: Temp = 25.0 Humidity = 51
+[14:26:24][Data thread] Aquired local data #25: Temp = 25.0 Humidity = 51
+[14:27:23][Data thread] Aquired local data #26: Temp = 25.0 Humidity = 54
+[14:28:23][Data thread] Aquired local data #27: Temp = 25.0 Humidity = 54
+[14:29:23][Data thread] Aquired local data #28: Temp = 25.0 Humidity = 54
+[14:30:26][Data thread] Aquired local data #29: Temp = 25.1 Humidity = 51
+[14:31:27][Data thread] Aquired local data #30: Temp = 25.1 Humidity = 51
+[14:32:25][Data thread] Aquired local data #31: Temp = 25.2 Humidity = 51
+[14:33:24][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 54
+[14:34:24][Data thread] Aquired local data #33: Temp = 25.2 Humidity = 54
+[14:35:26][Data thread] Aquired local data #34: Temp = 25.2 Humidity = 51
+[14:36:26][Data thread] Aquired local data #35: Temp = 25.1 Humidity = 51
+[14:37:25][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 51
+[14:38:25][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 51
+[14:39:25][Data thread] Aquired local data #38: Temp = 25.2 Humidity = 51
+[14:40:25][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 51
+[14:41:24][Data thread] Aquired local data #40: Temp = 25.2 Humidity = 54
+[14:42:25][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 51
+[14:43:25][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 51
+[14:44:25][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 51
+[14:45:24][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 54
+[14:46:24][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 54
+[14:47:24][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 54
+[14:48:24][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 54
+[14:49:25][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 51
+[14:50:25][Data thread] Aquired local data #49: Temp = 25.2 Humidity = 51
+[14:51:24][Data thread] Aquired local data #50: Temp = 25.2 Humidity = 54
+[14:52:24][Data thread] Aquired local data #51: Temp = 25.2 Humidity = 54
+[14:53:26][Data thread] Aquired local data #52: Temp = 25.2 Humidity = 51
+[14:54:27][Data thread] Aquired local data #53: Temp = 25.2 Humidity = 51
+[14:55:26][Data thread] Aquired local data #54: Temp = 25.2 Humidity = 51
+[14:56:26][Data thread] Aquired local data #55: Temp = 25.2 Humidity = 51
+[14:57:25][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 54
+[14:58:25][Data thread] Aquired local data #57: Temp = 25.2 Humidity = 54
+[14:59:25][Data thread] Aquired local data #58: Temp = 25.2 Humidity = 54
+[15:00:25][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 54
+[15:01:25][Data thread] Aquired local data #60: Temp = 25.2 Humidity = 54
+[15:02:24][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 58
+[None, None, None, None, None, None, None, None, None, None, None, None, None, 25.686666666666664, 25.16000000000002, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, 54.46666666666667, 57.68333333333333, None, None, None, None, None, None, None, None, None]
+[15:02:25][Data thread] Aquired local data #1: Temp = 25.2 Humidity = 54
+[15:03:25][Data thread] Aquired local data #2: Temp = 25.2 Humidity = 54
+[15:04:26][Main thread] Attempting to get Cimis data for hour 13:00
+[15:04:26][Main thread] Obtained Cimis data for hour 13:00
+Date = 2019-06-09 Hour = 1300 Humidity = 52  Temperature = 26.9 Eto = 0.76
+[15:04:27][Main thread] Attempting to get local data for hour 13:00
+[15:04:27][Main thread] Obtained Local data for hour 13:00
+[15:04:27][Main thread] Local data ready for 13:00 ready: Ave Temp = 25.69 Ave Humidity = 54
+[15:04:27][Main thread] Turning on relay. Irrigate for 126.34392973926839 seconds
+[15:05:08][Data thread] Aquired local data #3: Temp = 25.2 Humidity = 51
+[15:06:07][Data thread] Aquired local data #4: Temp = 25.1 Humidity = 153
+[15:06:28][Data thread] Aquired local data #5: Temp = 25.0 Humidity = 153
+[15:06:33][Main thread] Turning off relay. Finished irrigation for hour 13:00
+[15:06:33][Main thread] Attempting to get Cimis data for hour 14:00
+[15:06:33][Main thread] Cimis data not yet available. Will try again in one hour
+[15:07:25][Data thread] Aquired local data #6: Temp = 25.4 Humidity = 54
+[15:08:27][Data thread] Aquired local data #7: Temp = 25.2 Humidity = 51
+[15:09:25][Data thread] Aquired local data #8: Temp = 25.3 Humidity = 54
+[15:10:25][Data thread] Aquired local data #9: Temp = 25.2 Humidity = 54
+[15:11:25][Data thread] Aquired local data #10: Temp = 25.2 Humidity = 54
+[15:12:26][Data thread] Aquired local data #11: Temp = 25.2 Humidity = 51
+[15:13:27][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 51
+[15:14:26][Data thread] Aquired local data #13: Temp = 25.2 Humidity = 51
+[15:15:25][Data thread] Aquired local data #14: Temp = 25.2 Humidity = 54
+[15:16:27][Data thread] Aquired local data #15: Temp = 25.2 Humidity = 52
+[15:17:26][Data thread] Aquired local data #16: Temp = 25.2 Humidity = 51
+[15:18:27][Data thread] Aquired local data #17: Temp = 25.2 Humidity = 51
+[15:19:29][Data thread] Aquired local data #18: Temp = 25.2 Humidity = 52
+[15:20:26][Data thread] Aquired local data #19: Temp = 25.2 Humidity = 51
+[15:21:26][Data thread] Aquired local data #20: Temp = 25.2 Humidity = 52
+[15:22:25][Data thread] Aquired local data #21: Temp = 25.2 Humidity = 54
+[15:23:25][Data thread] Aquired local data #22: Temp = 25.2 Humidity = 54
+[15:24:25][Data thread] Aquired local data #23: Temp = 25.2 Humidity = 54
+[15:25:29][Data thread] Aquired local data #24: Temp = 25.2 Humidity = 52
+[15:26:25][Data thread] Aquired local data #25: Temp = 25.2 Humidity = 54
+[15:27:25][Data thread] Aquired local data #26: Temp = 25.2 Humidity = 54
+[15:28:27][Data thread] Aquired local data #27: Temp = 25.2 Humidity = 51
+[15:29:28][Data thread] Aquired local data #28: Temp = 25.2 Humidity = 52
+[15:30:27][Data thread] Aquired local data #29: Temp = 25.2 Humidity = 52
+[15:31:26][Data thread] Aquired local data #30: Temp = 25.2 Humidity = 55
+[15:32:26][Data thread] Aquired local data #31: Temp = 25.2 Humidity = 55
+[15:33:27][Data thread] Aquired local data #32: Temp = 25.2 Humidity = 52
+[15:34:26][Data thread] Aquired local data #33: Temp = 25.2 Humidity = 55
+[15:35:27][Data thread] Aquired local data #34: Temp = 25.2 Humidity = 52
+[15:36:27][Data thread] Aquired local data #35: Temp = 25.2 Humidity = 52
+[15:37:28][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 52
+[15:38:26][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 55
+[15:39:28][Data thread] Aquired local data #38: Temp = 25.2 Humidity = 52
+[15:40:27][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 52
+[15:41:26][Data thread] Aquired local data #40: Temp = 25.2 Humidity = 55
+[15:42:26][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 55
+[15:43:27][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 52
+[15:44:28][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 52
+[15:45:26][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 55
+[15:46:27][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 52
+[15:47:26][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 55
+[15:48:26][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 55
+[15:49:26][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 55
+[15:50:26][Data thread] Aquired local data #49: Temp = 25.2 Humidity = 55
+[15:51:26][Data thread] Aquired local data #50: Temp = 25.2 Humidity = 55
+[15:52:26][Data thread] Aquired local data #51: Temp = 25.2 Humidity = 55
+[15:53:27][Data thread] Aquired local data #52: Temp = 25.2 Humidity = 55
+[15:54:27][Data thread] Aquired local data #53: Temp = 25.2 Humidity = 55
+[15:55:28][Data thread] Aquired local data #54: Temp = 25.2 Humidity = 52
+[15:56:27][Data thread] Aquired local data #55: Temp = 25.2 Humidity = 55
+[15:57:29][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 52
+[15:58:28][Data thread] Aquired local data #57: Temp = 25.2 Humidity = 52
+[15:59:27][Data thread] Aquired local data #58: Temp = 25.2 Humidity = 55
+[16:00:27][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 55
+[16:01:28][Data thread] Aquired local data #60: Temp = 25.2 Humidity = 52
+[16:02:26][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 57
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.16000000000002, 25.200000000000028, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, 57.68333333333333, 56.516666666666666, None, None, None, None, None, None, None, None]
+[16:02:27][Data thread] Aquired local data #1: Temp = 25.2 Humidity = 55
+[16:03:27][Data thread] Aquired local data #2: Temp = 25.2 Humidity = 55
+[16:04:27][Data thread] Aquired local data #3: Temp = 25.2 Humidity = 55
+[16:05:27][Data thread] Aquired local data #4: Temp = 25.2 Humidity = 55
+[16:06:27][Data thread] Aquired local data #5: Temp = 25.2 Humidity = 55
+[16:06:33][Main thread] Attempting to get Cimis data for hour 14:00
+[16:06:34][Main thread] Obtained Cimis data for hour 14:00
+Date = 2019-06-09 Hour = 1400 Humidity = 49  Temperature = 28 Eto = 0.73
+[16:06:34][Main thread] Attempting to get local data for hour 14:00
+[16:06:34][Main thread] Obtained Local data for hour 14:00
+[16:06:34][Main thread] Local data ready for 14:00 ready: Ave Temp = 25.16 Ave Humidity = 58
+[16:06:34][Main thread] Turning on relay. Irrigate for 101.60941924299343 seconds
+[16:07:29][Data thread] Aquired local data #6: Temp = 25.2 Humidity = 154
+[16:08:15][Main thread] Turning off relay. Finished irrigation for hour 14:00
+[16:08:15][Main thread] Attempting to get Cimis data for hour 15:00
+[16:08:15][Main thread] Cimis data not yet available. Will try again in one hour
+[16:08:27][Data thread] Aquired local data #7: Temp = 25.2 Humidity = 55
+[16:09:28][Data thread] Aquired local data #8: Temp = 25.2 Humidity = 52
+[16:10:27][Data thread] Aquired local data #9: Temp = 25.2 Humidity = 55
+[16:11:27][Data thread] Aquired local data #10: Temp = 25.2 Humidity = 55
+[16:12:27][Data thread] Aquired local data #11: Temp = 25.2 Humidity = 55
+[16:13:29][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 52
+[16:14:30][Data thread] Aquired local data #13: Temp = 25.2 Humidity = 52
+[16:15:30][Data thread] Aquired local data #14: Temp = 25.2 Humidity = 52
+[16:16:32][Data thread] Aquired local data #15: Temp = 25.2 Humidity = 52
+[16:17:30][Data thread] Aquired local data #16: Temp = 25.2 Humidity = 52
+[16:18:32][Data thread] Aquired local data #17: Temp = 25.2 Humidity = 52
+[16:19:29][Data thread] Aquired local data #18: Temp = 25.2 Humidity = 52
+[16:20:29][Data thread] Aquired local data #19: Temp = 25.2 Humidity = 52
+[16:21:31][Data thread] Aquired local data #20: Temp = 25.2 Humidity = 52
+[16:22:29][Data thread] Aquired local data #21: Temp = 25.2 Humidity = 52
+[16:23:29][Data thread] Aquired local data #22: Temp = 25.2 Humidity = 52
+[16:24:28][Data thread] Aquired local data #23: Temp = 25.2 Humidity = 55
+[16:25:28][Data thread] Aquired local data #24: Temp = 25.2 Humidity = 55
+[16:26:28][Data thread] Aquired local data #25: Temp = 25.2 Humidity = 55
+[16:27:31][Data thread] Aquired local data #26: Temp = 25.2 Humidity = 52
+[16:28:29][Data thread] Aquired local data #27: Temp = 25.2 Humidity = 52
+[16:29:29][Data thread] Aquired local data #28: Temp = 25.2 Humidity = 52
+[16:30:28][Data thread] Aquired local data #29: Temp = 25.2 Humidity = 55
+[16:31:33][Data thread] Aquired local data #30: Temp = 25.2 Humidity = 52
+[16:32:28][Data thread] Aquired local data #31: Temp = 25.2 Humidity = 55
+[16:33:29][Data thread] Aquired local data #32: Temp = 25.2 Humidity = 52
+[16:34:28][Data thread] Aquired local data #33: Temp = 25.2 Humidity = 55
+[16:35:31][Data thread] Aquired local data #34: Temp = 25.2 Humidity = 52
+[16:36:29][Data thread] Aquired local data #35: Temp = 25.2 Humidity = 52
+[16:37:33][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 52
+[16:38:30][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 52
+[16:39:30][Data thread] Aquired local data #38: Temp = 25.2 Humidity = 52
+[16:40:29][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 55
+[16:41:29][Data thread] Aquired local data #40: Temp = 25.2 Humidity = 55
+[16:42:30][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 52
+[16:43:32][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 52
+[16:44:34][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 52
+[16:45:29][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 55
+[16:46:29][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 55
+[16:47:30][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 52
+[16:48:30][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 52
+[16:49:31][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 52
+[16:50:30][Data thread] Aquired local data #49: Temp = 25.2 Humidity = 52
+[16:51:29][Data thread] Aquired local data #50: Temp = 25.2 Humidity = 55
+[16:52:29][Data thread] Aquired local data #51: Temp = 25.2 Humidity = 55
+[16:53:29][Data thread] Aquired local data #52: Temp = 25.2 Humidity = 55
+[16:54:29][Data thread] Aquired local data #53: Temp = 25.2 Humidity = 55
+[16:55:30][Data thread] Aquired local data #54: Temp = 25.2 Humidity = 52
+[16:56:33][Data thread] Aquired local data #55: Temp = 25.2 Humidity = 52
+[16:57:29][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 55
+[16:58:29][Data thread] Aquired local data #57: Temp = 25.2 Humidity = 55
+[16:59:29][Data thread] Aquired local data #58: Temp = 25.2 Humidity = 55
+[17:00:31][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 53
+[17:01:30][Data thread] Aquired local data #60: Temp = 25.2 Humidity = 55
+[17:02:28][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 55
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.200000000000028, 25.200000000000028, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 56.516666666666666, 55.06666666666667, None, None, None, None, None, None, None]
+[17:02:32][Data thread] Aquired local data #1: Temp = 25.2 Humidity = 53
+[17:03:31][Data thread] Aquired local data #2: Temp = 25.2 Humidity = 53
+[17:04:30][Data thread] Aquired local data #3: Temp = 25.2 Humidity = 56
+[17:05:30][Data thread] Aquired local data #4: Temp = 25.2 Humidity = 56
+[17:06:30][Data thread] Aquired local data #5: Temp = 25.2 Humidity = 56
+[17:07:36][Data thread] Aquired local data #6: Temp = 25.2 Humidity = 53
+[17:08:16][Main thread] Attempting to get Cimis data for hour 15:00
+[17:08:25][Main thread] Obtained Cimis data for hour 15:00
+Date = 2019-06-09 Hour = 1500 Humidity = 47  Temperature = 28.7 Eto = 0.64
+[17:08:25][Main thread] Attempting to get local data for hour 15:00
+[17:08:25][Main thread] Obtained Local data for hour 15:00
+[17:08:25][Main thread] Local data ready for 15:00 ready: Ave Temp = 25.2 Ave Humidity = 57
+[17:08:25][Main thread] Turning on relay. Irrigate for 85.21826913760674 seconds
+[17:08:25][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[17:08:30][Data thread] Aquired local data #7: Temp = 25.3 Humidity = 56
+[17:08:35][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[17:08:45][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[17:08:55][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[17:09:05][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[17:09:15][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[17:09:54][Data thread] Aquired local data #8: Temp = 24.9 Humidity = 154
+[17:10:44][Data thread] Aquired local data #9: Temp = 25.0 Humidity = 154
+[17:10:50][Main thread] Turning off relay. Finished irrigation for hour 15:00
+[17:10:50][Main thread] Attempting to get Cimis data for hour 16:00
+CMIS request was rejected
+[17:10:50][Main thread] A problem occured requesting data from Cimis. Will try again in one hour
+[17:11:32][Data thread] Aquired local data #10: Temp = 25.4 Humidity = 53
+[17:12:31][Data thread] Aquired local data #11: Temp = 25.2 Humidity = 53
+[17:13:30][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 56
+[17:14:30][Data thread] Aquired local data #13: Temp = 25.2 Humidity = 56
+[17:15:31][Data thread] Aquired local data #14: Temp = 25.2 Humidity = 53
+[17:16:31][Data thread] Aquired local data #15: Temp = 25.2 Humidity = 53
+[17:17:31][Data thread] Aquired local data #16: Temp = 25.2 Humidity = 53
+[17:18:32][Data thread] Aquired local data #17: Temp = 25.2 Humidity = 53
+[17:19:33][Data thread] Aquired local data #18: Temp = 25.2 Humidity = 53
+[17:20:30][Data thread] Aquired local data #19: Temp = 25.2 Humidity = 56
+[17:21:31][Data thread] Aquired local data #20: Temp = 25.2 Humidity = 56
+[17:22:32][Data thread] Aquired local data #21: Temp = 25.2 Humidity = 53
+[17:23:32][Data thread] Aquired local data #22: Temp = 25.2 Humidity = 53
+[17:24:32][Data thread] Aquired local data #23: Temp = 25.2 Humidity = 53
+[17:25:31][Data thread] Aquired local data #24: Temp = 25.2 Humidity = 56
+[17:26:32][Data thread] Aquired local data #25: Temp = 25.2 Humidity = 53
+[17:27:32][Data thread] Aquired local data #26: Temp = 25.2 Humidity = 53
+[17:28:33][Data thread] Aquired local data #27: Temp = 25.2 Humidity = 53
+[17:29:31][Data thread] Aquired local data #28: Temp = 25.2 Humidity = 56
+[17:30:32][Data thread] Aquired local data #29: Temp = 25.2 Humidity = 53
+[17:31:33][Data thread] Aquired local data #30: Temp = 25.2 Humidity = 53
+[17:32:31][Data thread] Aquired local data #31: Temp = 25.2 Humidity = 56
+[17:33:31][Data thread] Aquired local data #32: Temp = 25.2 Humidity = 56
+[17:34:31][Data thread] Aquired local data #33: Temp = 25.2 Humidity = 56
+[17:35:31][Data thread] Aquired local data #34: Temp = 25.2 Humidity = 56
+[17:36:31][Data thread] Aquired local data #35: Temp = 25.2 Humidity = 56
+[17:37:31][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 56
+[17:38:31][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 56
+[17:39:31][Data thread] Aquired local data #38: Temp = 25.2 Humidity = 56
+[17:40:32][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 53
+[17:41:32][Data thread] Aquired local data #40: Temp = 25.2 Humidity = 53
+[17:42:31][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 56
+[17:43:31][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 56
+[17:44:31][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 56
+[17:45:33][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 53
+[17:46:31][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 56
+[17:47:33][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 53
+[17:48:32][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 56
+[17:49:32][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 56
+[17:50:32][Data thread] Aquired local data #49: Temp = 25.2 Humidity = 56
+[17:51:32][Data thread] Aquired local data #50: Temp = 25.2 Humidity = 56
+[17:52:32][Data thread] Aquired local data #51: Temp = 25.2 Humidity = 56
+[17:53:34][Data thread] Aquired local data #52: Temp = 25.2 Humidity = 53
+[17:54:34][Data thread] Aquired local data #53: Temp = 25.2 Humidity = 53
+[17:55:32][Data thread] Aquired local data #54: Temp = 25.2 Humidity = 56
+[17:56:32][Data thread] Aquired local data #55: Temp = 25.2 Humidity = 56
+[17:57:37][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 53
+[17:58:32][Data thread] Aquired local data #57: Temp = 25.2 Humidity = 56
+[17:59:33][Data thread] Aquired local data #58: Temp = 25.2 Humidity = 53
+[18:00:33][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 53
+[18:01:32][Data thread] Aquired local data #60: Temp = 25.2 Humidity = 56
+[18:02:31][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 58
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.200000000000028, 25.196666666666694, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 55.06666666666667, 57.916666666666664, None, None, None, None, None, None]
+[18:02:33][Data thread] Aquired local data #1: Temp = 25.2 Humidity = 53
+[18:03:35][Data thread] Aquired local data #2: Temp = 25.2 Humidity = 53
+[18:04:33][Data thread] Aquired local data #3: Temp = 25.2 Humidity = 53
+[18:05:33][Data thread] Aquired local data #4: Temp = 25.2 Humidity = 53
+[18:06:32][Data thread] Aquired local data #5: Temp = 25.2 Humidity = 56
+[18:07:32][Data thread] Aquired local data #6: Temp = 25.2 Humidity = 56
+[18:08:36][Data thread] Aquired local data #7: Temp = 25.2 Humidity = 53
+[18:09:33][Data thread] Aquired local data #8: Temp = 25.2 Humidity = 56
+[18:10:34][Data thread] Aquired local data #9: Temp = 25.2 Humidity = 53
+[18:10:50][Main thread] Attempting to get Cimis data for hour 16:00
+[18:10:51][Main thread] Obtained Cimis data for hour 16:00
+Date = 2019-06-09 Hour = 1600 Humidity = 42  Temperature = 30.4 Eto = 0.52
+[18:10:51][Main thread] Attempting to get local data for hour 16:00
+[18:10:51][Main thread] Obtained Local data for hour 16:00
+[18:10:51][Main thread] Local data ready for 16:00 ready: Ave Temp = 25.2 Ave Humidity = 55
+[18:10:51][Main thread] Turning on relay. Irrigate for 59.951986146822755 seconds
+[18:10:51][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:11:01][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:11:11][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:11:21][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:11:31][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:11:34][Data thread] Aquired local data #10: Temp = 25.2 Humidity = 53
+[18:11:41][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:12:51][Main thread] Turning off relay. Finished irrigation for hour 16:00
+[18:12:51][Main thread] Attempting to get Cimis data for hour 17:00
+[18:12:51][Main thread] Obtained Cimis data for hour 17:00
+Date = 2019-06-09 Hour = 1700 Humidity = 48  Temperature = 28.4 Eto = 0.38
+[18:12:51][Main thread] Attempting to get local data for hour 17:00
+[18:12:51][Main thread] Obtained Local data for hour 17:00
+[18:12:51][Main thread] Local data ready for 17:00 ready: Ave Temp = 25.2 Ave Humidity = 58
+[18:12:51][Main thread] Turning on relay. Irrigate for 50.95171404218802 seconds
+[18:12:51][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:12:51][Data thread] Aquired local data #11: Temp = 24.9 Humidity = 53
+[18:13:01][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:13:11][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:13:21][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:13:31][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:13:35][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 53
+[18:13:41][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[18:14:42][Main thread] Turning off relay. Finished irrigation for hour 17:00
+[18:14:43][Data thread] Aquired local data #13: Temp = 24.9 Humidity = 53
+[18:15:33][Data thread] Aquired local data #14: Temp = 25.3 Humidity = 56
+[18:16:34][Data thread] Aquired local data #15: Temp = 25.2 Humidity = 53
+[18:17:33][Data thread] Aquired local data #16: Temp = 25.2 Humidity = 56
+[18:18:34][Data thread] Aquired local data #17: Temp = 25.2 Humidity = 53
+[18:19:34][Data thread] Aquired local data #18: Temp = 25.2 Humidity = 53
+[18:20:33][Data thread] Aquired local data #19: Temp = 25.2 Humidity = 56
+[18:21:33][Data thread] Aquired local data #20: Temp = 25.2 Humidity = 56
+[18:22:33][Data thread] Aquired local data #21: Temp = 25.2 Humidity = 56
+[18:23:33][Data thread] Aquired local data #22: Temp = 25.2 Humidity = 56
+[18:24:33][Data thread] Aquired local data #23: Temp = 25.2 Humidity = 56
+[18:25:37][Data thread] Aquired local data #24: Temp = 25.2 Humidity = 53
+[18:26:33][Data thread] Aquired local data #25: Temp = 25.2 Humidity = 56
+[18:27:33][Data thread] Aquired local data #26: Temp = 25.2 Humidity = 56
+[18:28:36][Data thread] Aquired local data #27: Temp = 25.2 Humidity = 53
+[18:29:34][Data thread] Aquired local data #28: Temp = 25.2 Humidity = 56
+[18:30:34][Data thread] Aquired local data #29: Temp = 25.2 Humidity = 56
+[18:31:34][Data thread] Aquired local data #30: Temp = 25.2 Humidity = 56
+[18:32:36][Data thread] Aquired local data #31: Temp = 25.2 Humidity = 53
+[18:33:35][Data thread] Aquired local data #32: Temp = 25.2 Humidity = 53
+[18:34:35][Data thread] Aquired local data #33: Temp = 25.2 Humidity = 53
+[18:35:34][Data thread] Aquired local data #34: Temp = 25.2 Humidity = 56
+[18:36:34][Data thread] Aquired local data #35: Temp = 25.2 Humidity = 56
+[18:37:35][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 53
+[18:38:40][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 53
+[18:39:34][Data thread] Aquired local data #38: Temp = 25.3 Humidity = 56
+[18:40:39][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 53
+[18:41:34][Data thread] Aquired local data #40: Temp = 25.3 Humidity = 56
+[18:42:35][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 53
+[18:43:36][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 53
+[18:44:35][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 53
+[18:45:39][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 53
+[18:46:36][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 53
+[18:47:36][Data thread] Aquired local data #46: Temp = 24.9 Humidity = 53
+[18:48:34][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 56
+[18:49:36][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 53
+[18:50:36][Data thread] Aquired local data #49: Temp = 25.2 Humidity = 53
+[18:51:36][Data thread] Aquired local data #50: Temp = 25.2 Humidity = 53
+[18:52:35][Data thread] Aquired local data #51: Temp = 25.2 Humidity = 56
+[18:53:37][Data thread] Aquired local data #52: Temp = 25.2 Humidity = 53
+[18:54:42][Data thread] Aquired local data #53: Temp = 25.2 Humidity = 53
+[18:55:36][Data thread] Aquired local data #54: Temp = 25.3 Humidity = 53
+[18:56:38][Data thread] Aquired local data #55: Temp = 25.2 Humidity = 53
+[18:57:36][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 53
+[18:58:36][Data thread] Aquired local data #57: Temp = 25.2 Humidity = 53
+[18:59:35][Data thread] Aquired local data #58: Temp = 25.2 Humidity = 56
+[19:00:35][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 56
+[19:01:35][Data thread] Aquired local data #60: Temp = 25.2 Humidity = 56
+[19:02:15][Main thread] Attempting to get Cimis data for hour 18:00
+[19:02:16][Main thread] Cimis data not yet available. Will try again in one hour
+[19:02:34][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 54
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.191666666666688, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 54.2, None, None, None, None, None]
+[19:02:35][Data thread] Aquired local data #1: Temp = 25.2 Humidity = 56
+[19:03:35][Data thread] Aquired local data #2: Temp = 25.2 Humidity = 56
+[19:04:35][Data thread] Aquired local data #3: Temp = 25.2 Humidity = 56
+[19:05:35][Data thread] Aquired local data #4: Temp = 25.2 Humidity = 56
+[19:06:35][Data thread] Aquired local data #5: Temp = 25.2 Humidity = 56
+[19:07:35][Data thread] Aquired local data #6: Temp = 25.1 Humidity = 56
+[19:08:40][Data thread] Aquired local data #7: Temp = 25.2 Humidity = 53
+[19:09:41][Data thread] Aquired local data #8: Temp = 25.2 Humidity = 53
+[19:10:38][Data thread] Aquired local data #9: Temp = 25.2 Humidity = 53
+[19:11:39][Data thread] Aquired local data #10: Temp = 25.2 Humidity = 53
+[19:12:37][Data thread] Aquired local data #11: Temp = 25.3 Humidity = 53
+[19:13:39][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 53
+[19:14:36][Data thread] Aquired local data #13: Temp = 25.2 Humidity = 56
+[19:15:37][Data thread] Aquired local data #14: Temp = 25.2 Humidity = 53
+[19:16:36][Data thread] Aquired local data #15: Temp = 25.3 Humidity = 56
+[19:17:36][Data thread] Aquired local data #16: Temp = 25.3 Humidity = 56
+[19:18:36][Data thread] Aquired local data #17: Temp = 25.3 Humidity = 56
+[19:19:39][Data thread] Aquired local data #18: Temp = 25.3 Humidity = 53
+[19:20:38][Data thread] Aquired local data #19: Temp = 25.3 Humidity = 53
+[19:21:36][Data thread] Aquired local data #20: Temp = 25.4 Humidity = 56
+[19:22:36][Data thread] Aquired local data #21: Temp = 25.4 Humidity = 56
+[19:23:36][Data thread] Aquired local data #22: Temp = 25.4 Humidity = 56
+[19:24:41][Data thread] Aquired local data #23: Temp = 25.4 Humidity = 54
+[19:25:36][Data thread] Aquired local data #24: Temp = 25.5 Humidity = 56
+[19:26:37][Data thread] Aquired local data #25: Temp = 25.5 Humidity = 54
+[19:27:37][Data thread] Aquired local data #26: Temp = 25.5 Humidity = 53
+[19:28:36][Data thread] Aquired local data #27: Temp = 25.5 Humidity = 57
+[19:29:36][Data thread] Aquired local data #28: Temp = 25.5 Humidity = 57
+[19:30:37][Data thread] Aquired local data #29: Temp = 25.5 Humidity = 54
+[19:31:39][Data thread] Aquired local data #30: Temp = 25.5 Humidity = 54
+[19:32:36][Data thread] Aquired local data #31: Temp = 25.5 Humidity = 57
+[19:33:37][Data thread] Aquired local data #32: Temp = 25.5 Humidity = 54
+[19:34:36][Data thread] Aquired local data #33: Temp = 25.5 Humidity = 57
+[19:35:36][Data thread] Aquired local data #34: Temp = 25.5 Humidity = 58
+[19:36:40][Data thread] Aquired local data #35: Temp = 25.5 Humidity = 55
+[19:37:39][Data thread] Aquired local data #36: Temp = 25.6 Humidity = 55
+[19:38:40][Data thread] Aquired local data #37: Temp = 25.6 Humidity = 54
+[19:39:40][Data thread] Aquired local data #38: Temp = 25.6 Humidity = 55
+[19:40:41][Data thread] Aquired local data #39: Temp = 25.6 Humidity = 55
+[19:41:37][Data thread] Aquired local data #40: Temp = 25.6 Humidity = 58
+[19:42:38][Data thread] Aquired local data #41: Temp = 25.6 Humidity = 55
+[19:43:39][Data thread] Aquired local data #42: Temp = 25.6 Humidity = 54
+[19:44:37][Data thread] Aquired local data #43: Temp = 25.6 Humidity = 57
+[19:45:37][Data thread] Aquired local data #44: Temp = 25.6 Humidity = 57
+[19:46:37][Data thread] Aquired local data #45: Temp = 25.5 Humidity = 57
+[19:47:38][Data thread] Aquired local data #46: Temp = 25.5 Humidity = 54
+[19:48:37][Data thread] Aquired local data #47: Temp = 25.6 Humidity = 57
+[19:49:38][Data thread] Aquired local data #48: Temp = 25.6 Humidity = 54
+[19:50:38][Data thread] Aquired local data #49: Temp = 25.6 Humidity = 54
+[19:51:38][Data thread] Aquired local data #50: Temp = 25.6 Humidity = 54
+[19:52:43][Data thread] Aquired local data #51: Temp = 25.6 Humidity = 54
+[19:53:37][Data thread] Aquired local data #52: Temp = 25.6 Humidity = 57
+[19:54:37][Data thread] Aquired local data #53: Temp = 25.6 Humidity = 57
+[19:55:38][Data thread] Aquired local data #54: Temp = 25.6 Humidity = 54
+[19:56:38][Data thread] Aquired local data #55: Temp = 25.6 Humidity = 54
+[19:57:37][Data thread] Aquired local data #56: Temp = 25.6 Humidity = 57
+[19:58:39][Data thread] Aquired local data #57: Temp = 25.6 Humidity = 54
+[19:59:39][Data thread] Aquired local data #58: Temp = 25.6 Humidity = 54
+[20:00:40][Data thread] Aquired local data #59: Temp = 25.6 Humidity = 54
+[20:01:38][Data thread] Aquired local data #60: Temp = 25.7 Humidity = 56
+[20:02:16][Main thread] Attempting to get Cimis data for hour 18:00
+Could not access the CIMIS database.Verify that you have an active internet connection and try again.
+[20:02:21][Main thread] A problem occured requesting data from Cimis. Will try again in one hour
+[20:02:37][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.4 Ave Humidity = 55
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.191666666666688, 25.446666666666644, None, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 54.2, 55.1, None, None, None, None]
+[20:02:39][Data thread] Aquired local data #1: Temp = 25.7 Humidity = 53
+[20:03:41][Data thread] Aquired local data #2: Temp = 25.7 Humidity = 53
+[20:04:39][Data thread] Aquired local data #3: Temp = 25.7 Humidity = 53
+[20:05:39][Data thread] Aquired local data #4: Temp = 25.7 Humidity = 53
+[20:06:41][Data thread] Aquired local data #5: Temp = 25.7 Humidity = 53
+[20:07:38][Data thread] Aquired local data #6: Temp = 25.8 Humidity = 56
+[20:08:38][Data thread] Aquired local data #7: Temp = 25.7 Humidity = 56
+[20:09:43][Data thread] Aquired local data #8: Temp = 25.8 Humidity = 53
+[20:10:38][Data thread] Aquired local data #9: Temp = 25.8 Humidity = 56
+[20:11:38][Data thread] Aquired local data #10: Temp = 25.8 Humidity = 56
+[20:12:38][Data thread] Aquired local data #11: Temp = 25.8 Humidity = 56
+[20:13:41][Data thread] Aquired local data #12: Temp = 25.8 Humidity = 53
+[20:14:39][Data thread] Aquired local data #13: Temp = 25.8 Humidity = 53
+[20:15:41][Data thread] Aquired local data #14: Temp = 25.8 Humidity = 53
+[20:16:38][Data thread] Aquired local data #15: Temp = 25.8 Humidity = 55
+[20:17:42][Data thread] Aquired local data #16: Temp = 25.8 Humidity = 53
+[20:18:41][Data thread] Aquired local data #17: Temp = 25.8 Humidity = 52
+[20:19:40][Data thread] Aquired local data #18: Temp = 25.9 Humidity = 53
+[20:20:38][Data thread] Aquired local data #19: Temp = 25.9 Humidity = 55
+[20:21:40][Data thread] Aquired local data #20: Temp = 25.9 Humidity = 52
+[20:22:39][Data thread] Aquired local data #21: Temp = 25.9 Humidity = 55
+[20:23:40][Data thread] Aquired local data #22: Temp = 25.9 Humidity = 53
+[20:24:40][Data thread] Aquired local data #23: Temp = 25.9 Humidity = 53
+[20:25:41][Data thread] Aquired local data #24: Temp = 25.9 Humidity = 53
+[20:26:39][Data thread] Aquired local data #25: Temp = 25.9 Humidity = 56
+[20:27:39][Data thread] Aquired local data #26: Temp = 25.8 Humidity = 56
+[20:28:39][Data thread] Aquired local data #27: Temp = 25.8 Humidity = 56
+[20:29:39][Data thread] Aquired local data #28: Temp = 25.8 Humidity = 56
+[20:30:39][Data thread] Aquired local data #29: Temp = 25.8 Humidity = 56
+[20:31:40][Data thread] Aquired local data #30: Temp = 25.8 Humidity = 53
+[20:32:39][Data thread] Aquired local data #31: Temp = 25.8 Humidity = 56
+[20:33:42][Data thread] Aquired local data #32: Temp = 25.8 Humidity = 53
+[20:34:40][Data thread] Aquired local data #33: Temp = 25.8 Humidity = 54
+[20:35:41][Data thread] Aquired local data #34: Temp = 26.0 Humidity = 54
+[20:36:41][Data thread] Aquired local data #35: Temp = 26.0 Humidity = 54
+[20:37:39][Data thread] Aquired local data #36: Temp = 26.0 Humidity = 56
+[20:38:42][Data thread] Aquired local data #37: Temp = 25.9 Humidity = 54
+[20:39:39][Data thread] Aquired local data #38: Temp = 26.0 Humidity = 56
+[20:40:39][Data thread] Aquired local data #39: Temp = 25.9 Humidity = 56
+[20:41:39][Data thread] Aquired local data #40: Temp = 25.9 Humidity = 56
+[20:42:41][Data thread] Aquired local data #41: Temp = 25.9 Humidity = 54
+[20:43:42][Data thread] Aquired local data #42: Temp = 25.9 Humidity = 54
+[20:44:40][Data thread] Aquired local data #43: Temp = 26.0 Humidity = 56
+[20:45:41][Data thread] Aquired local data #44: Temp = 26.0 Humidity = 53
+[20:46:44][Data thread] Aquired local data #45: Temp = 25.9 Humidity = 53
+[20:47:42][Data thread] Aquired local data #46: Temp = 26.0 Humidity = 52
+[20:48:40][Data thread] Aquired local data #47: Temp = 25.9 Humidity = 55
+[20:49:43][Data thread] Aquired local data #48: Temp = 25.9 Humidity = 52
+[20:50:40][Data thread] Aquired local data #49: Temp = 25.9 Humidity = 55
+[20:51:41][Data thread] Aquired local data #50: Temp = 25.9 Humidity = 52
+[20:52:41][Data thread] Aquired local data #51: Temp = 25.9 Humidity = 52
+[20:53:40][Data thread] Aquired local data #52: Temp = 25.9 Humidity = 55
+[20:54:40][Data thread] Aquired local data #53: Temp = 25.8 Humidity = 55
+[20:55:40][Data thread] Aquired local data #54: Temp = 25.9 Humidity = 55
+[20:56:41][Data thread] Aquired local data #55: Temp = 25.8 Humidity = 52
+[20:57:40][Data thread] Aquired local data #56: Temp = 25.8 Humidity = 55
+[20:58:40][Data thread] Aquired local data #57: Temp = 25.8 Humidity = 55
+[20:59:40][Data thread] Aquired local data #58: Temp = 25.8 Humidity = 55
+[21:00:43][Data thread] Aquired local data #59: Temp = 25.8 Humidity = 52
+[21:01:42][Data thread] Aquired local data #60: Temp = 25.8 Humidity = 52
+[21:02:21][Main thread] Attempting to get Cimis data for hour 18:00
+[21:02:21][Main thread] Obtained Cimis data for hour 18:00
+Date = 2019-06-09 Hour = 1800 Humidity = 57  Temperature = 25.5 Eto = 0.19
+[21:02:21][Main thread] Attempting to get local data for hour 18:00
+[21:02:21][Main thread] Obtained Local data for hour 18:00
+[21:02:21][Main thread] Local data ready for 18:00 ready: Ave Temp = 25.19 Ave Humidity = 54
+[21:02:21][Main thread] Turning on relay. Irrigate for 35.996366356397154 seconds
+[21:02:39][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.8 Ave Humidity = 54
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.446666666666644, 25.848333333333336, None, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 55.1, 54.11666666666667, None, None, None]
+[21:02:42][Data thread] Aquired local data #1: Temp = 25.200000000000003 Humidity = 154
+[21:02:57][Main thread] Turning off relay. Finished irrigation for hour 18:00
+[21:02:57][Main thread] Attempting to get Cimis data for hour 19:00
+[21:02:57][Main thread] Obtained Cimis data for hour 19:00
+Date = 2019-06-09 Hour = 1900 Humidity = 63  Temperature = 23.1 Eto = 0.05
+[21:02:57][Main thread] Attempting to get local data for hour 19:00
+[21:02:57][Main thread] Obtained Local data for hour 19:00
+[21:02:57][Main thread] Local data ready for 19:00 ready: Ave Temp = 25.45 Ave Humidity = 55
+[21:02:57][Main thread] Turning on relay. Irrigate for 11.483932956122546 seconds
+[21:03:09][Main thread] Turning off relay. Finished irrigation for hour 19:00
+[21:03:09][Main thread] Attempting to get Cimis data for hour 20:00
+[21:03:09][Main thread] Cimis data not yet available. Will try again in one hour
+[21:03:42][Data thread] Aquired local data #2: Temp = 25.8 Humidity = 52
+[21:04:41][Data thread] Aquired local data #3: Temp = 25.8 Humidity = 55
+[21:05:41][Data thread] Aquired local data #4: Temp = 25.8 Humidity = 55
+[21:06:41][Data thread] Aquired local data #5: Temp = 25.8 Humidity = 55
+[21:07:42][Data thread] Aquired local data #6: Temp = 25.8 Humidity = 52
+[21:08:42][Data thread] Aquired local data #7: Temp = 25.8 Humidity = 52
+[21:09:42][Data thread] Aquired local data #8: Temp = 25.8 Humidity = 52
+[21:10:42][Data thread] Aquired local data #9: Temp = 25.8 Humidity = 52
+[21:11:41][Data thread] Aquired local data #10: Temp = 25.9 Humidity = 55
+[21:12:41][Data thread] Aquired local data #11: Temp = 25.9 Humidity = 55
+[21:13:43][Data thread] Aquired local data #12: Temp = 25.9 Humidity = 52
+[21:14:41][Data thread] Aquired local data #13: Temp = 25.9 Humidity = 55
+[21:15:41][Data thread] Aquired local data #14: Temp = 25.8 Humidity = 55
+[21:16:41][Data thread] Aquired local data #15: Temp = 25.8 Humidity = 55
+[21:17:41][Data thread] Aquired local data #16: Temp = 25.9 Humidity = 55
+[21:18:41][Data thread] Aquired local data #17: Temp = 25.8 Humidity = 55
+[21:19:41][Data thread] Aquired local data #18: Temp = 25.9 Humidity = 55
+[21:20:41][Data thread] Aquired local data #19: Temp = 25.8 Humidity = 55
+[21:21:44][Data thread] Aquired local data #20: Temp = 25.9 Humidity = 52
+[21:22:44][Data thread] Aquired local data #21: Temp = 25.8 Humidity = 52
+[21:23:41][Data thread] Aquired local data #22: Temp = 25.9 Humidity = 55
+[21:24:44][Data thread] Aquired local data #23: Temp = 25.9 Humidity = 52
+[21:25:42][Data thread] Aquired local data #24: Temp = 25.9 Humidity = 55
+[21:26:43][Data thread] Aquired local data #25: Temp = 25.9 Humidity = 52
+[21:27:44][Data thread] Aquired local data #26: Temp = 25.9 Humidity = 52
+[21:28:42][Data thread] Aquired local data #27: Temp = 25.9 Humidity = 55
+[21:29:42][Data thread] Aquired local data #28: Temp = 25.9 Humidity = 55
+[21:30:42][Data thread] Aquired local data #29: Temp = 25.9 Humidity = 55
+[21:31:42][Data thread] Aquired local data #30: Temp = 25.9 Humidity = 55
+[21:32:43][Data thread] Aquired local data #31: Temp = 25.9 Humidity = 52
+[21:33:42][Data thread] Aquired local data #32: Temp = 25.9 Humidity = 55
+[21:34:42][Data thread] Aquired local data #33: Temp = 25.9 Humidity = 55
+[21:35:42][Data thread] Aquired local data #34: Temp = 25.9 Humidity = 55
+[21:36:42][Data thread] Aquired local data #35: Temp = 25.9 Humidity = 55
+[21:37:46][Data thread] Aquired local data #36: Temp = 25.9 Humidity = 52
+[21:38:49][Data thread] Aquired local data #37: Temp = 25.9 Humidity = 53
+[21:39:44][Data thread] Aquired local data #38: Temp = 25.9 Humidity = 52
+[21:40:44][Data thread] Aquired local data #39: Temp = 25.9 Humidity = 52
+[21:41:42][Data thread] Aquired local data #40: Temp = 25.9 Humidity = 55
+[21:42:47][Data thread] Aquired local data #41: Temp = 25.8 Humidity = 53
+[21:43:45][Data thread] Aquired local data #42: Temp = 25.9 Humidity = 52
+[21:44:42][Data thread] Aquired local data #43: Temp = 25.9 Humidity = 55
+[21:45:46][Data thread] Aquired local data #44: Temp = 25.9 Humidity = 52
+[21:46:44][Data thread] Aquired local data #45: Temp = 25.9 Humidity = 52
+[21:47:43][Data thread] Aquired local data #46: Temp = 25.9 Humidity = 55
+[21:48:45][Data thread] Aquired local data #47: Temp = 25.8 Humidity = 52
+[21:49:43][Data thread] Aquired local data #48: Temp = 25.9 Humidity = 55
+[21:50:43][Data thread] Aquired local data #49: Temp = 25.8 Humidity = 55
+[21:51:43][Data thread] Aquired local data #50: Temp = 25.8 Humidity = 55
+[21:52:44][Data thread] Aquired local data #51: Temp = 25.8 Humidity = 52
+[21:53:44][Data thread] Aquired local data #52: Temp = 25.8 Humidity = 52
+[21:54:43][Data thread] Aquired local data #53: Temp = 25.8 Humidity = 55
+[21:55:43][Data thread] Aquired local data #54: Temp = 25.8 Humidity = 55
+[21:56:45][Data thread] Aquired local data #55: Temp = 25.8 Humidity = 52
+[21:57:44][Data thread] Aquired local data #56: Temp = 25.8 Humidity = 52
+[21:58:46][Data thread] Aquired local data #57: Temp = 25.8 Humidity = 52
+[21:59:43][Data thread] Aquired local data #58: Temp = 25.8 Humidity = 55
+[22:00:43][Data thread] Aquired local data #59: Temp = 25.8 Humidity = 55
+[22:01:44][Data thread] Aquired local data #60: Temp = 25.8 Humidity = 52
+[22:02:42][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.8 Ave Humidity = 55
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.848333333333336, 25.843333333333323, None, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 54.11666666666667, 55.333333333333336, None, None]
+[22:02:44][Data thread] Aquired local data #1: Temp = 25.8 Humidity = 51
+[22:03:09][Main thread] Attempting to get Cimis data for hour 20:00
+[22:03:10][Main thread] Obtained Cimis data for hour 20:00
+Date = 2019-06-09 Hour = 2000 Humidity = 75  Temperature = 20.1 Eto = 0
+[22:03:10][Main thread] Attempting to get local data for hour 20:00
+[22:03:10][Main thread] Obtained Local data for hour 20:00
+[22:03:10][Main thread] Local data ready for 20:00 ready: Ave Temp = 25.85 Ave Humidity = 54
+[22:03:10][Main thread] Eto is zero for hour 20:00. No need to irrigate for this hour
+[22:03:10][Main thread] Attempting to get Cimis data for hour 21:00
+[22:03:10][Main thread] Cimis data not yet available. Will try again in one hour
+[22:03:44][Data thread] Aquired local data #2: Temp = 25.8 Humidity = 51
+[22:04:44][Data thread] Aquired local data #3: Temp = 25.8 Humidity = 51
+[22:05:46][Data thread] Aquired local data #4: Temp = 25.8 Humidity = 52
+[22:06:43][Data thread] Aquired local data #5: Temp = 25.8 Humidity = 55
+[22:07:43][Data thread] Aquired local data #6: Temp = 25.8 Humidity = 55
+[22:08:44][Data thread] Aquired local data #7: Temp = 25.8 Humidity = 55
+[22:09:44][Data thread] Aquired local data #8: Temp = 25.7 Humidity = 55
+[22:10:44][Data thread] Aquired local data #9: Temp = 25.7 Humidity = 55
+[22:11:44][Data thread] Aquired local data #10: Temp = 25.7 Humidity = 55
+[22:12:44][Data thread] Aquired local data #11: Temp = 25.7 Humidity = 55
+[22:13:44][Data thread] Aquired local data #12: Temp = 25.7 Humidity = 54
+[22:14:45][Data thread] Aquired local data #13: Temp = 25.7 Humidity = 52
+[22:15:45][Data thread] Aquired local data #14: Temp = 25.8 Humidity = 52
+[22:16:47][Data thread] Aquired local data #15: Temp = 25.7 Humidity = 51
+[22:17:46][Data thread] Aquired local data #16: Temp = 25.8 Humidity = 51
+[22:18:44][Data thread] Aquired local data #17: Temp = 25.8 Humidity = 54
+[22:19:44][Data thread] Aquired local data #18: Temp = 25.8 Humidity = 54
+[22:20:44][Data thread] Aquired local data #19: Temp = 25.7 Humidity = 54
+[22:21:44][Data thread] Aquired local data #20: Temp = 25.7 Humidity = 54
+[22:22:44][Data thread] Aquired local data #21: Temp = 25.7 Humidity = 54
+[22:23:44][Data thread] Aquired local data #22: Temp = 25.7 Humidity = 54
+[22:24:44][Data thread] Aquired local data #23: Temp = 25.7 Humidity = 54
+[22:25:45][Data thread] Aquired local data #24: Temp = 25.7 Humidity = 51
+[22:26:44][Data thread] Aquired local data #25: Temp = 25.7 Humidity = 54
+[22:27:47][Data thread] Aquired local data #26: Temp = 25.7 Humidity = 51
+[22:28:48][Data thread] Aquired local data #27: Temp = 25.7 Humidity = 51
+[22:29:46][Data thread] Aquired local data #28: Temp = 25.7 Humidity = 51
+[22:30:47][Data thread] Aquired local data #29: Temp = 25.7 Humidity = 51
+[22:31:46][Data thread] Aquired local data #30: Temp = 25.7 Humidity = 51
+[22:32:45][Data thread] Aquired local data #31: Temp = 25.7 Humidity = 54
+[22:33:46][Data thread] Aquired local data #32: Temp = 25.7 Humidity = 51
+[22:34:45][Data thread] Aquired local data #33: Temp = 25.7 Humidity = 54
+[22:35:45][Data thread] Aquired local data #34: Temp = 25.7 Humidity = 54
+[22:36:45][Data thread] Aquired local data #35: Temp = 25.7 Humidity = 54
+[22:37:46][Data thread] Aquired local data #36: Temp = 25.7 Humidity = 51
+[22:38:51][Data thread] Aquired local data #37: Temp = 25.7 Humidity = 51
+[22:39:45][Data thread] Aquired local data #38: Temp = 25.7 Humidity = 54
+[22:40:50][Data thread] Aquired local data #39: Temp = 25.7 Humidity = 51
+[22:41:45][Data thread] Aquired local data #40: Temp = 25.7 Humidity = 54
+[22:42:45][Data thread] Aquired local data #41: Temp = 25.7 Humidity = 54
+[22:43:46][Data thread] Aquired local data #42: Temp = 25.7 Humidity = 51
+[22:44:46][Data thread] Aquired local data #43: Temp = 25.7 Humidity = 51
+[22:45:48][Data thread] Aquired local data #44: Temp = 25.7 Humidity = 51
+[22:46:46][Data thread] Aquired local data #45: Temp = 25.7 Humidity = 51
+[22:47:45][Data thread] Aquired local data #46: Temp = 25.7 Humidity = 54
+[22:48:48][Data thread] Aquired local data #47: Temp = 25.7 Humidity = 51
+[22:49:48][Data thread] Aquired local data #48: Temp = 25.7 Humidity = 51
+[22:50:47][Data thread] Aquired local data #49: Temp = 25.7 Humidity = 51
+[22:51:47][Data thread] Aquired local data #50: Temp = 25.7 Humidity = 51
+[22:52:47][Data thread] Aquired local data #51: Temp = 25.7 Humidity = 51
+[22:53:46][Data thread] Aquired local data #52: Temp = 25.6 Humidity = 54
+[22:54:46][Data thread] Aquired local data #53: Temp = 25.7 Humidity = 54
+[22:55:47][Data thread] Aquired local data #54: Temp = 25.6 Humidity = 51
+[22:56:48][Data thread] Aquired local data #55: Temp = 25.6 Humidity = 51
+[22:57:46][Data thread] Aquired local data #56: Temp = 25.5 Humidity = 54
+[22:58:47][Data thread] Aquired local data #57: Temp = 25.1 Humidity = 52
+[22:59:48][Data thread] Aquired local data #58: Temp = 25.0 Humidity = 154
+[23:00:47][Data thread] Aquired local data #59: Temp = 24.8 Humidity = 52
+[23:01:46][Data thread] Aquired local data #60: Temp = 24.9 Humidity = 55
+[23:02:45][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.7 Ave Humidity = 54
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.843333333333323, 25.660000000000018, None]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 55.333333333333336, 54.333333333333336, None]
+[23:02:47][Data thread] Aquired local data #1: Temp = 24.8 Humidity = 52
+[23:03:10][Main thread] Attempting to get Cimis data for hour 21:00
+[23:03:10][Main thread] Obtained Cimis data for hour 21:00
+Date = 2019-06-09 Hour = 2100 Humidity = 80  Temperature = 19.3 Eto = 0
+[23:03:10][Main thread] Attempting to get local data for hour 21:00
+[23:03:10][Main thread] Obtained Local data for hour 21:00
+[23:03:10][Main thread] Local data ready for 21:00 ready: Ave Temp = 25.84 Ave Humidity = 55
+[23:03:10][Main thread] Eto is zero for hour 21:00. No need to irrigate for this hour
+[23:03:10][Main thread] Attempting to get Cimis data for hour 22:00
+[23:03:11][Main thread] Cimis data not yet available. Will try again in one hour
+[23:03:46][Data thread] Aquired local data #2: Temp = 24.8 Humidity = 55
+[23:04:46][Data thread] Aquired local data #3: Temp = 24.7 Humidity = 55
+[23:05:46][Data thread] Aquired local data #4: Temp = 24.6 Humidity = 55
+[23:06:46][Data thread] Aquired local data #5: Temp = 24.5 Humidity = 55
+[23:07:46][Data thread] Aquired local data #6: Temp = 24.5 Humidity = 55
+[23:08:51][Data thread] Aquired local data #7: Temp = 24.4 Humidity = 51
+[23:09:46][Data thread] Aquired local data #8: Temp = 24.5 Humidity = 54
+[23:10:48][Data thread] Aquired local data #9: Temp = 24.4 Humidity = 51
+[23:11:46][Data thread] Aquired local data #10: Temp = 24.3 Humidity = 54
+[23:12:49][Data thread] Aquired local data #11: Temp = 24.3 Humidity = 51
+[23:13:49][Data thread] Aquired local data #12: Temp = 24.2 Humidity = 51
+[23:14:47][Data thread] Aquired local data #13: Temp = 24.2 Humidity = 54
+[23:15:47][Data thread] Aquired local data #14: Temp = 24.2 Humidity = 54
+[23:16:49][Data thread] Aquired local data #15: Temp = 24.0 Humidity = 51
+[23:17:47][Data thread] Aquired local data #16: Temp = 24.1 Humidity = 54
+[23:18:47][Data thread] Aquired local data #17: Temp = 24.1 Humidity = 54
+[23:19:47][Data thread] Aquired local data #18: Temp = 24.1 Humidity = 54
+[23:20:48][Data thread] Aquired local data #19: Temp = 24.0 Humidity = 50
+[23:21:47][Data thread] Aquired local data #20: Temp = 24.0 Humidity = 53
+[23:22:49][Data thread] Aquired local data #21: Temp = 24.0 Humidity = 50
+[23:23:47][Data thread] Aquired local data #22: Temp = 24.0 Humidity = 53
+[23:24:47][Data thread] Aquired local data #23: Temp = 24.0 Humidity = 53
+[23:25:47][Data thread] Aquired local data #24: Temp = 24.0 Humidity = 53
+[23:26:52][Data thread] Aquired local data #25: Temp = 23.9 Humidity = 50
+[23:27:53][Data thread] Aquired local data #26: Temp = 24.0 Humidity = 50
+[23:28:49][Data thread] Aquired local data #27: Temp = 23.9 Humidity = 50
+[23:29:48][Data thread] Aquired local data #28: Temp = 23.9 Humidity = 153
+[23:30:48][Data thread] Aquired local data #29: Temp = 23.9 Humidity = 153
+[23:31:49][Data thread] Aquired local data #30: Temp = 23.8 Humidity = 153
+[23:32:47][Data thread] Aquired local data #31: Temp = 23.8 Humidity = 53
+[23:33:49][Data thread] Aquired local data #32: Temp = 23.7 Humidity = 153
+[23:34:48][Data thread] Aquired local data #33: Temp = 23.8 Humidity = 52
+[23:35:50][Data thread] Aquired local data #34: Temp = 23.7 Humidity = 49
+[23:36:50][Data thread] Aquired local data #35: Temp = 23.7 Humidity = 49
+[23:37:50][Data thread] Aquired local data #36: Temp = 23.7 Humidity = 49
+[23:38:48][Data thread] Aquired local data #37: Temp = 23.7 Humidity = 52
+[23:39:49][Data thread] Aquired local data #38: Temp = 23.7 Humidity = 49
+[23:40:55][Data thread] Aquired local data #39: Temp = 23.6 Humidity = 49
+[23:41:48][Data thread] Aquired local data #40: Temp = 23.7 Humidity = 52
+[23:42:50][Data thread] Aquired local data #41: Temp = 23.6 Humidity = 49
+[23:43:48][Data thread] Aquired local data #42: Temp = 23.6 Humidity = 52
+[23:44:48][Data thread] Aquired local data #43: Temp = 23.5 Humidity = 52
+[23:45:50][Data thread] Aquired local data #44: Temp = 23.5 Humidity = 49
+[23:46:48][Data thread] Aquired local data #45: Temp = 23.5 Humidity = 52
+[23:47:48][Data thread] Aquired local data #46: Temp = 23.5 Humidity = 52
+[23:48:49][Data thread] Aquired local data #47: Temp = 23.5 Humidity = 49
+[23:49:49][Data thread] Aquired local data #48: Temp = 23.5 Humidity = 49
+[23:50:49][Data thread] Aquired local data #49: Temp = 23.5 Humidity = 49
+[23:51:51][Data thread] Aquired local data #50: Temp = 23.5 Humidity = 49
+[23:52:49][Data thread] Aquired local data #51: Temp = 23.5 Humidity = 49
+[23:53:48][Data thread] Aquired local data #52: Temp = 23.6 Humidity = 51
+[23:54:50][Data thread] Aquired local data #53: Temp = 23.6 Humidity = 48
+[23:55:50][Data thread] Aquired local data #54: Temp = 23.6 Humidity = 48
+[23:56:51][Data thread] Aquired local data #55: Temp = 23.6 Humidity = 48
+[23:57:52][Data thread] Aquired local data #56: Temp = 23.6 Humidity = 48
+[23:58:50][Data thread] Aquired local data #57: Temp = 23.6 Humidity = 48
+[23:59:50][Data thread] Aquired local data #58: Temp = 23.6 Humidity = 48
+[00:00:51][Data thread] Aquired local data #59: Temp = 23.7 Humidity = 48
+[00:01:50][Data thread] Aquired local data #60: Temp = 23.7 Humidity = 48
+[00:02:48][Data thread] One hour elapsed. Writing local data
+Ave Temp = 23.9 Ave Humidity = 58
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 25.660000000000018, 23.908333333333324]
+[None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 54.333333333333336, 57.9]
+[00:02:49][Data thread] Aquired local data #1: Temp = 23.7 Humidity = 51
+[00:03:11][Main thread] Attempting to get Cimis data for hour 22:00
+[00:03:11][Main thread] Obtained Cimis data for hour 22:00
+Date = 2019-06-09 Hour = 2200 Humidity = 84  Temperature = 18.5 Eto = 0
+[00:03:11][Main thread] Attempting to get local data for hour 22:00
+[00:03:11][Main thread] Obtained Local data for hour 22:00
+[00:03:11][Main thread] Local data ready for 22:00 ready: Ave Temp = 25.66 Ave Humidity = 54
+[00:03:11][Main thread] Eto is zero for hour 22:00. No need to irrigate for this hour
+[00:03:11][Main thread] Attempting to get Cimis data for hour 23:00
+[00:03:11][Main thread] Cimis data not yet available. Will try again in one hour
+[00:03:50][Data thread] Aquired local data #2: Temp = 23.7 Humidity = 48
+[00:04:49][Data thread] Aquired local data #3: Temp = 23.7 Humidity = 50
+[00:05:49][Data thread] Aquired local data #4: Temp = 23.8 Humidity = 50
+[00:06:49][Data thread] Aquired local data #5: Temp = 23.8 Humidity = 50
+[00:07:49][Data thread] Aquired local data #6: Temp = 23.8 Humidity = 50
+[00:08:49][Data thread] Aquired local data #7: Temp = 23.8 Humidity = 50
+[00:09:49][Data thread] Aquired local data #8: Temp = 23.8 Humidity = 50
+[00:10:49][Data thread] Aquired local data #9: Temp = 23.8 Humidity = 50
+[00:11:53][Data thread] Aquired local data #10: Temp = 23.8 Humidity = 47
+[00:12:51][Data thread] Aquired local data #11: Temp = 23.8 Humidity = 47
+[00:13:49][Data thread] Aquired local data #12: Temp = 23.8 Humidity = 50
+[00:14:51][Data thread] Aquired local data #13: Temp = 23.8 Humidity = 46
+[00:15:52][Data thread] Aquired local data #14: Temp = 23.8 Humidity = 46
+[00:16:50][Data thread] Aquired local data #15: Temp = 23.8 Humidity = 46
+[00:17:49][Data thread] Aquired local data #16: Temp = 24.200000000000003 Humidity = 49
+[00:18:49][Data thread] Aquired local data #17: Temp = 24.200000000000003 Humidity = 49
+[00:19:52][Data thread] Aquired local data #18: Temp = 24.200000000000003 Humidity = 46
+[00:20:51][Data thread] Aquired local data #19: Temp = 24.200000000000003 Humidity = 46
+[00:21:49][Data thread] Aquired local data #20: Temp = 24.200000000000003 Humidity = 49
+[00:22:50][Data thread] Aquired local data #21: Temp = 24.200000000000003 Humidity = 49
+[00:23:54][Data thread] Aquired local data #22: Temp = 23.9 Humidity = 46
+[00:24:51][Data thread] Aquired local data #23: Temp = 24.0 Humidity = 46
+[00:25:57][Data thread] Aquired local data #24: Temp = 24.0 Humidity = 46
+[00:26:50][Data thread] Aquired local data #25: Temp = 12.0 Humidity = 49
+[00:27:50][Data thread] Aquired local data #26: Temp = 12.0 Humidity = 49
+[00:28:52][Data thread] Aquired local data #27: Temp = 12.0 Humidity = 46
+[00:29:50][Data thread] Aquired local data #28: Temp = 12.0 Humidity = 49
+[00:30:55][Data thread] Aquired local data #29: Temp = 24.2 Humidity = 46
+[00:31:52][Data thread] Aquired local data #30: Temp = 24.2 Humidity = 46
+[00:32:51][Data thread] Aquired local data #31: Temp = 24.2 Humidity = 46
+[00:33:50][Data thread] Aquired local data #32: Temp = 24.2 Humidity = 49
+[00:34:50][Data thread] Aquired local data #33: Temp = 24.2 Humidity = 49
+[00:35:50][Data thread] Aquired local data #34: Temp = 24.3 Humidity = 49
+[00:36:51][Data thread] Aquired local data #35: Temp = 24.3 Humidity = 46
+[00:37:50][Data thread] Aquired local data #36: Temp = 24.3 Humidity = 49
+[00:38:52][Data thread] Aquired local data #37: Temp = 24.3 Humidity = 46
+[00:39:50][Data thread] Aquired local data #38: Temp = 24.4 Humidity = 49
+[00:40:50][Data thread] Aquired local data #39: Temp = 24.4 Humidity = 49
+[00:41:50][Data thread] Aquired local data #40: Temp = 24.4 Humidity = 49
+[00:42:50][Data thread] Aquired local data #41: Temp = 24.4 Humidity = 49
+[00:43:50][Data thread] Aquired local data #42: Temp = 24.4 Humidity = 49
+[00:44:52][Data thread] Aquired local data #43: Temp = 24.4 Humidity = 46
+[00:45:52][Data thread] Aquired local data #44: Temp = 24.5 Humidity = 46
+[00:46:52][Data thread] Aquired local data #45: Temp = 24.5 Humidity = 46
+[00:47:52][Data thread] Aquired local data #46: Temp = 24.5 Humidity = 46
+[00:48:51][Data thread] Aquired local data #47: Temp = 24.5 Humidity = 49
+[00:49:52][Data thread] Aquired local data #48: Temp = 24.5 Humidity = 46
+[00:50:51][Data thread] Aquired local data #49: Temp = 24.6 Humidity = 49
+[00:51:54][Data thread] Aquired local data #50: Temp = 24.6 Humidity = 46
+[00:52:52][Data thread] Aquired local data #51: Temp = 24.6 Humidity = 46
+[00:53:52][Data thread] Aquired local data #52: Temp = 24.6 Humidity = 46
+[00:54:51][Data thread] Aquired local data #53: Temp = 24.6 Humidity = 49
+[00:55:52][Data thread] Aquired local data #54: Temp = 24.7 Humidity = 46
+[00:56:51][Data thread] Aquired local data #55: Temp = 24.7 Humidity = 49
+[00:57:52][Data thread] Aquired local data #56: Temp = 24.7 Humidity = 46
+[00:58:55][Data thread] Aquired local data #57: Temp = 24.7 Humidity = 46
+[00:59:51][Data thread] Aquired local data #58: Temp = 24.7 Humidity = 49
+[01:00:51][Data thread] Aquired local data #59: Temp = 24.7 Humidity = 49
+[01:01:51][Data thread] Aquired local data #60: Temp = 24.7 Humidity = 49
+[01:02:50][Data thread] One hour elapsed. Writing local data
+Ave Temp = 23.4 Ave Humidity = 48
+[23.413333333333334, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 23.908333333333324]
+[47.833333333333336, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, 57.9]
+[01:02:51][Data thread] Aquired local data #1: Temp = 24.8 Humidity = 49
+[01:03:11][Main thread] Attempting to get Cimis data for hour 23:00
+[01:03:12][Main thread] Obtained Cimis data for hour 23:00
+Date = 2019-06-09 Hour = 2300 Humidity = 86  Temperature = 17.8 Eto = 0
+[01:03:12][Main thread] Attempting to get local data for hour 23:00
+[01:03:12][Main thread] Obtained Local data for hour 23:00
+[01:03:12][Main thread] Local data ready for 23:00 ready: Ave Temp = 23.91 Ave Humidity = 58
+[01:03:12][Main thread] Eto is zero for hour 23:00. No need to irrigate for this hour
+[01:03:12][Main thread] Attempting to get Cimis data for hour 0:00
+[01:03:12][Main thread] Cimis data not yet available. Will try again in one hour
+[01:03:51][Data thread] Aquired local data #2: Temp = 24.8 Humidity = 49
+[01:04:53][Data thread] Aquired local data #3: Temp = 24.8 Humidity = 46
+[01:05:53][Data thread] Aquired local data #4: Temp = 24.8 Humidity = 46
+[01:06:54][Data thread] Aquired local data #5: Temp = 24.8 Humidity = 46
+[01:07:55][Data thread] Aquired local data #6: Temp = 24.8 Humidity = 46
+[01:08:52][Data thread] Aquired local data #7: Temp = 24.9 Humidity = 49
+[01:09:52][Data thread] Aquired local data #8: Temp = 24.9 Humidity = 49
+[01:10:53][Data thread] Aquired local data #9: Temp = 24.9 Humidity = 47
+[01:11:52][Data thread] Aquired local data #10: Temp = 24.9 Humidity = 49
+[01:12:54][Data thread] Aquired local data #11: Temp = 24.9 Humidity = 46
+[01:13:52][Data thread] Aquired local data #12: Temp = 24.9 Humidity = 49
+[01:14:53][Data thread] Aquired local data #13: Temp = 24.9 Humidity = 46
+[01:15:54][Data thread] Aquired local data #14: Temp = 24.9 Humidity = 46
+[01:16:52][Data thread] Aquired local data #15: Temp = 25.0 Humidity = 49
+[01:17:58][Data thread] Aquired local data #16: Temp = 25.0 Humidity = 46
+[01:18:52][Data thread] Aquired local data #17: Temp = 25.0 Humidity = 49
+[01:19:53][Data thread] Aquired local data #18: Temp = 25.0 Humidity = 46
+[01:20:53][Data thread] Aquired local data #19: Temp = 25.0 Humidity = 47
+[01:21:53][Data thread] Aquired local data #20: Temp = 25.0 Humidity = 47
+[01:22:53][Data thread] Aquired local data #21: Temp = 25.0 Humidity = 47
+[01:23:53][Data thread] Aquired local data #22: Temp = 25.0 Humidity = 46
+[01:24:53][Data thread] Aquired local data #23: Temp = 25.0 Humidity = 47
+[01:25:52][Data thread] Aquired local data #24: Temp = 25.1 Humidity = 49
+[01:26:55][Data thread] Aquired local data #25: Temp = 25.0 Humidity = 46
+[01:27:54][Data thread] Aquired local data #26: Temp = 25.0 Humidity = 47
+[01:28:53][Data thread] Aquired local data #27: Temp = 25.1 Humidity = 50
+[01:29:54][Data thread] Aquired local data #28: Temp = 25.0 Humidity = 46
+[01:30:53][Data thread] Aquired local data #29: Temp = 25.1 Humidity = 49
+[01:31:53][Data thread] Aquired local data #30: Temp = 25.1 Humidity = 49
+[01:32:53][Data thread] Aquired local data #31: Temp = 25.1 Humidity = 49
+[01:33:55][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 47
+[01:34:53][Data thread] Aquired local data #33: Temp = 25.1 Humidity = 49
+[01:35:54][Data thread] Aquired local data #34: Temp = 25.1 Humidity = 46
+[01:36:53][Data thread] Aquired local data #35: Temp = 25.2 Humidity = 49
+[01:37:57][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 46
+[01:38:53][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 49
+[01:39:53][Data thread] Aquired local data #38: Temp = 25.2 Humidity = 49
+[01:40:53][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 49
+[01:41:53][Data thread] Aquired local data #40: Temp = 25.2 Humidity = 49
+[01:42:53][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 49
+[01:43:58][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 47
+[01:44:54][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 46
+[01:45:53][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 49
+[01:46:53][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 49
+[01:47:53][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 49
+[01:48:53][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 49
+[01:49:57][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 46
+[01:50:55][Data thread] Aquired local data #49: Temp = 25.3 Humidity = 47
+[01:51:57][Data thread] Aquired local data #50: Temp = 25.3 Humidity = 46
+[01:52:54][Data thread] Aquired local data #51: Temp = 25.3 Humidity = 49
+[01:53:54][Data thread] Aquired local data #52: Temp = 25.3 Humidity = 49
+[01:54:54][Data thread] Aquired local data #53: Temp = 25.3 Humidity = 50
+[01:55:54][Data thread] Aquired local data #54: Temp = 25.3 Humidity = 49
+[01:56:58][Data thread] Aquired local data #55: Temp = 25.3 Humidity = 46
+[01:57:57][Data thread] Aquired local data #56: Temp = 25.3 Humidity = 46
+[01:58:54][Data thread] Aquired local data #57: Temp = 25.3 Humidity = 50
+[01:59:54][Data thread] Aquired local data #58: Temp = 25.3 Humidity = 50
+[02:00:54][Data thread] Aquired local data #59: Temp = 25.3 Humidity = 50
+[02:01:54][Data thread] Aquired local data #60: Temp = 25.3 Humidity = 50
+[02:02:53][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.1 Ave Humidity = 48
+[23.413333333333334, 25.08666666666667, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[47.833333333333336, 47.85, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[02:02:55][Data thread] Aquired local data #1: Temp = 25.3 Humidity = 47
+[02:03:12][Main thread] Attempting to get Cimis data for hour 0:00
+[02:03:12][Main thread] Obtained Cimis data for hour 0:00
+Date = 2019-06-09 Hour = 2400 Humidity = 91  Temperature = 16.4 Eto = 0
+[02:03:12][Main thread] Attempting to get local data for hour 0:00
+[02:03:12][Main thread] Obtained Local data for hour 0:00
+[02:03:12][Main thread] Local data ready for 0:00 ready: Ave Temp = 23.41 Ave Humidity = 48
+[02:03:12][Main thread] Eto is zero for hour 0:00. No need to irrigate for this hour
+[02:03:12][Main thread] Attempting to get Cimis data for hour 1:00
+[02:03:13][Main thread] Cimis data not yet available. Will try again in one hour
+[02:03:56][Data thread] Aquired local data #2: Temp = 25.3 Humidity = 47
+[02:04:55][Data thread] Aquired local data #3: Temp = 25.3 Humidity = 47
+[02:05:56][Data thread] Aquired local data #4: Temp = 25.3 Humidity = 47
+[02:06:54][Data thread] Aquired local data #5: Temp = 25.4 Humidity = 50
+[02:07:54][Data thread] Aquired local data #6: Temp = 25.3 Humidity = 50
+[02:08:54][Data thread] Aquired local data #7: Temp = 25.3 Humidity = 50
+[02:09:54][Data thread] Aquired local data #8: Temp = 25.3 Humidity = 50
+[02:10:54][Data thread] Aquired local data #9: Temp = 25.3 Humidity = 50
+[02:11:56][Data thread] Aquired local data #10: Temp = 25.3 Humidity = 47
+[02:12:56][Data thread] Aquired local data #11: Temp = 25.3 Humidity = 47
+[02:13:56][Data thread] Aquired local data #12: Temp = 25.3 Humidity = 47
+[02:14:58][Data thread] Aquired local data #13: Temp = 25.3 Humidity = 47
+[02:15:56][Data thread] Aquired local data #14: Temp = 25.3 Humidity = 47
+[02:16:56][Data thread] Aquired local data #15: Temp = 25.3 Humidity = 47
+[02:17:56][Data thread] Aquired local data #16: Temp = 25.3 Humidity = 47
+[02:18:57][Data thread] Aquired local data #17: Temp = 25.3 Humidity = 47
+[02:19:59][Data thread] Aquired local data #18: Temp = 25.3 Humidity = 47
+[02:20:55][Data thread] Aquired local data #19: Temp = 25.4 Humidity = 50
+[02:21:55][Data thread] Aquired local data #20: Temp = 25.3 Humidity = 50
+[02:22:57][Data thread] Aquired local data #21: Temp = 25.3 Humidity = 47
+[02:23:55][Data thread] Aquired local data #22: Temp = 25.3 Humidity = 50
+[02:24:57][Data thread] Aquired local data #23: Temp = 25.3 Humidity = 47
+[02:25:58][Data thread] Aquired local data #24: Temp = 25.3 Humidity = 47
+[02:26:59][Data thread] Aquired local data #25: Temp = 25.3 Humidity = 47
+[02:27:56][Data thread] Aquired local data #26: Temp = 25.3 Humidity = 47
+[02:28:56][Data thread] Aquired local data #27: Temp = 25.3 Humidity = 47
+[02:29:59][Data thread] Aquired local data #28: Temp = 25.3 Humidity = 47
+[02:30:56][Data thread] Aquired local data #29: Temp = 25.3 Humidity = 47
+[02:31:55][Data thread] Aquired local data #30: Temp = 25.3 Humidity = 50
+[02:32:55][Data thread] Aquired local data #31: Temp = 25.3 Humidity = 50
+[02:33:57][Data thread] Aquired local data #32: Temp = 25.3 Humidity = 48
+[02:34:57][Data thread] Aquired local data #33: Temp = 25.3 Humidity = 48
+[02:35:57][Data thread] Aquired local data #34: Temp = 25.3 Humidity = 48
+[02:36:58][Data thread] Aquired local data #35: Temp = 25.3 Humidity = 48
+[02:37:58][Data thread] Aquired local data #36: Temp = 25.3 Humidity = 48
+[02:38:56][Data thread] Aquired local data #37: Temp = 25.3 Humidity = 51
+[02:39:57][Data thread] Aquired local data #38: Temp = 25.3 Humidity = 48
+[02:40:58][Data thread] Aquired local data #39: Temp = 25.3 Humidity = 48
+[02:41:58][Data thread] Aquired local data #40: Temp = 25.3 Humidity = 48
+[02:42:56][Data thread] Aquired local data #41: Temp = 25.3 Humidity = 51
+[02:43:57][Data thread] Aquired local data #42: Temp = 25.3 Humidity = 48
+[02:44:57][Data thread] Aquired local data #43: Temp = 25.3 Humidity = 48
+[02:45:57][Data thread] Aquired local data #44: Temp = 25.3 Humidity = 48
+[02:46:58][Data thread] Aquired local data #45: Temp = 25.3 Humidity = 48
+[02:48:01][Data thread] Aquired local data #46: Temp = 25.3 Humidity = 48
+[02:48:57][Data thread] Aquired local data #47: Temp = 25.3 Humidity = 48
+[02:49:57][Data thread] Aquired local data #48: Temp = 25.3 Humidity = 48
+[02:50:57][Data thread] Aquired local data #49: Temp = 25.3 Humidity = 48
+[02:51:57][Data thread] Aquired local data #50: Temp = 25.3 Humidity = 48
+[02:52:57][Data thread] Aquired local data #51: Temp = 25.3 Humidity = 48
+[02:53:57][Data thread] Aquired local data #52: Temp = 25.3 Humidity = 48
+[02:54:56][Data thread] Aquired local data #53: Temp = 25.3 Humidity = 51
+[02:55:56][Data thread] Aquired local data #54: Temp = 25.3 Humidity = 51
+[02:56:56][Data thread] Aquired local data #55: Temp = 25.3 Humidity = 52
+[02:57:58][Data thread] Aquired local data #56: Temp = 25.3 Humidity = 49
+[02:58:56][Data thread] Aquired local data #57: Temp = 25.3 Humidity = 51
+[02:59:57][Data thread] Aquired local data #58: Temp = 25.3 Humidity = 52
+[03:00:58][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 49
+[03:01:59][Data thread] Aquired local data #60: Temp = 25.3 Humidity = 49
+[03:02:56][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.3 Ave Humidity = 48
+[None, 25.08666666666667, 25.30166666666664, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, 47.85, 48.416666666666664, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[03:02:59][Data thread] Aquired local data #1: Temp = 25.2 Humidity = 49
+[03:03:13][Main thread] Attempting to get Cimis data for hour 1:00
+[03:03:13][Main thread] Obtained Cimis data for hour 1:00
+Date = 2019-06-10 Hour = 0100 Humidity = 93  Temperature = 15.8 Eto = 0
+[03:03:13][Main thread] Attempting to get local data for hour 1:00
+[03:03:13][Main thread] Obtained Local data for hour 1:00
+[03:03:13][Main thread] Local data ready for 1:00 ready: Ave Temp = 25.09 Ave Humidity = 48
+[03:03:13][Main thread] Eto is zero for hour 1:00. No need to irrigate for this hour
+[03:03:13][Main thread] Attempting to get Cimis data for hour 2:00
+[03:03:13][Main thread] Cimis data not yet available. Will try again in one hour
+[03:03:58][Data thread] Aquired local data #2: Temp = 25.3 Humidity = 49
+[03:05:00][Data thread] Aquired local data #3: Temp = 25.3 Humidity = 49
+[03:05:57][Data thread] Aquired local data #4: Temp = 25.3 Humidity = 52
+[03:07:00][Data thread] Aquired local data #5: Temp = 25.3 Humidity = 49
+[03:07:57][Data thread] Aquired local data #6: Temp = 25.3 Humidity = 52
+[03:09:02][Data thread] Aquired local data #7: Temp = 25.2 Humidity = 49
+[03:09:57][Data thread] Aquired local data #8: Temp = 25.3 Humidity = 52
+[03:10:57][Data thread] Aquired local data #9: Temp = 25.2 Humidity = 52
+[03:11:57][Data thread] Aquired local data #10: Temp = 25.2 Humidity = 52
+[03:12:58][Data thread] Aquired local data #11: Temp = 25.2 Humidity = 49
+[03:13:59][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 49
+[03:15:01][Data thread] Aquired local data #13: Temp = 25.2 Humidity = 49
+[03:15:57][Data thread] Aquired local data #14: Temp = 25.3 Humidity = 52
+[03:16:58][Data thread] Aquired local data #15: Temp = 25.2 Humidity = 49
+[03:18:01][Data thread] Aquired local data #16: Temp = 25.2 Humidity = 49
+[03:18:57][Data thread] Aquired local data #17: Temp = 25.3 Humidity = 52
+[03:19:59][Data thread] Aquired local data #18: Temp = 25.2 Humidity = 49
+[03:20:58][Data thread] Aquired local data #19: Temp = 25.3 Humidity = 52
+[03:21:59][Data thread] Aquired local data #20: Temp = 25.2 Humidity = 49
+[03:22:58][Data thread] Aquired local data #21: Temp = 25.2 Humidity = 52
+[03:23:58][Data thread] Aquired local data #22: Temp = 25.2 Humidity = 52
+[03:24:58][Data thread] Aquired local data #23: Temp = 25.2 Humidity = 52
+[03:25:59][Data thread] Aquired local data #24: Temp = 25.2 Humidity = 49
+[03:26:59][Data thread] Aquired local data #25: Temp = 25.2 Humidity = 49
+[03:27:58][Data thread] Aquired local data #26: Temp = 25.2 Humidity = 52
+[03:28:58][Data thread] Aquired local data #27: Temp = 25.2 Humidity = 52
+[03:29:59][Data thread] Aquired local data #28: Temp = 25.2 Humidity = 50
+[03:30:58][Data thread] Aquired local data #29: Temp = 25.2 Humidity = 53
+[03:31:59][Data thread] Aquired local data #30: Temp = 25.2 Humidity = 50
+[03:32:59][Data thread] Aquired local data #31: Temp = 25.2 Humidity = 50
+[03:33:59][Data thread] Aquired local data #32: Temp = 25.2 Humidity = 50
+[03:35:04][Data thread] Aquired local data #33: Temp = 25.2 Humidity = 50
+[03:36:03][Data thread] Aquired local data #34: Temp = 25.3 Humidity = 50
+[03:36:58][Data thread] Aquired local data #35: Temp = 25.3 Humidity = 52
+[03:37:58][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 53
+[03:38:58][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 53
+[03:39:58][Data thread] Aquired local data #38: Temp = 25.2 Humidity = 53
+[03:40:58][Data thread] Aquired local data #39: Temp = 25.2 Humidity = 53
+[03:41:58][Data thread] Aquired local data #40: Temp = 25.2 Humidity = 53
+[03:43:02][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 50
+[03:43:59][Data thread] Aquired local data #42: Temp = 25.2 Humidity = 53
+[03:44:59][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 53
+[03:45:59][Data thread] Aquired local data #44: Temp = 25.2 Humidity = 53
+[03:46:59][Data thread] Aquired local data #45: Temp = 25.2 Humidity = 53
+[03:48:01][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 50
+[03:49:01][Data thread] Aquired local data #47: Temp = 25.2 Humidity = 50
+[03:50:00][Data thread] Aquired local data #48: Temp = 25.2 Humidity = 50
+[03:51:00][Data thread] Aquired local data #49: Temp = 25.2 Humidity = 50
+[03:51:59][Data thread] Aquired local data #50: Temp = 25.2 Humidity = 53
+[03:53:02][Data thread] Aquired local data #51: Temp = 25.2 Humidity = 50
+[03:54:00][Data thread] Aquired local data #52: Temp = 25.2 Humidity = 50
+[03:54:59][Data thread] Aquired local data #53: Temp = 25.2 Humidity = 53
+[03:55:59][Data thread] Aquired local data #54: Temp = 25.2 Humidity = 53
+[03:56:59][Data thread] Aquired local data #55: Temp = 25.1 Humidity = 53
+[03:57:59][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 53
+[03:59:03][Data thread] Aquired local data #57: Temp = 25.2 Humidity = 50
+[04:00:04][Data thread] Aquired local data #58: Temp = 25.2 Humidity = 50
+[04:01:04][Data thread] Aquired local data #59: Temp = 25.2 Humidity = 50
+[04:02:01][Data thread] Aquired local data #60: Temp = 25.2 Humidity = 50
+[04:02:58][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 51
+[None, None, 25.30166666666664, 25.21666666666669, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, 48.416666666666664, 50.983333333333334, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[04:03:01][Data thread] Aquired local data #1: Temp = 25.1 Humidity = 50
+[04:03:13][Main thread] Attempting to get Cimis data for hour 2:00
+[04:03:14][Main thread] Obtained Cimis data for hour 2:00
+Date = 2019-06-10 Hour = 0200 Humidity = 93  Temperature = 15.3 Eto = 0
+[04:03:14][Main thread] Attempting to get local data for hour 2:00
+[04:03:14][Main thread] Obtained Local data for hour 2:00
+[04:03:14][Main thread] Local data ready for 2:00 ready: Ave Temp = 25.3 Ave Humidity = 48
+[04:03:14][Main thread] Eto is zero for hour 2:00. No need to irrigate for this hour
+[04:03:14][Main thread] Attempting to get Cimis data for hour 3:00
+[04:03:14][Main thread] Cimis data not yet available. Will try again in one hour
+[04:03:59][Data thread] Aquired local data #2: Temp = 25.2 Humidity = 53
+[04:05:02][Data thread] Aquired local data #3: Temp = 25.2 Humidity = 50
+[04:06:00][Data thread] Aquired local data #4: Temp = 25.2 Humidity = 53
+[04:07:02][Data thread] Aquired local data #5: Temp = 25.2 Humidity = 50
+[04:08:01][Data thread] Aquired local data #6: Temp = 25.2 Humidity = 51
+[04:09:00][Data thread] Aquired local data #7: Temp = 25.2 Humidity = 53
+[04:10:00][Data thread] Aquired local data #8: Temp = 25.2 Humidity = 54
+[04:11:02][Data thread] Aquired local data #9: Temp = 25.1 Humidity = 51
+[04:12:03][Data thread] Aquired local data #10: Temp = 25.1 Humidity = 51
+[04:13:01][Data thread] Aquired local data #11: Temp = 25.2 Humidity = 51
+[04:14:00][Data thread] Aquired local data #12: Temp = 25.2 Humidity = 53
+[04:15:00][Data thread] Aquired local data #13: Temp = 25.1 Humidity = 53
+[04:16:00][Data thread] Aquired local data #14: Temp = 25.1 Humidity = 53
+[04:17:01][Data thread] Aquired local data #15: Temp = 25.1 Humidity = 51
+[04:18:04][Data thread] Aquired local data #16: Temp = 25.1 Humidity = 51
+[04:19:05][Data thread] Aquired local data #17: Temp = 25.2 Humidity = 51
+[04:20:00][Data thread] Aquired local data #18: Temp = 25.2 Humidity = 53
+[04:21:01][Data thread] Aquired local data #19: Temp = 25.2 Humidity = 51
+[04:22:00][Data thread] Aquired local data #20: Temp = 25.2 Humidity = 53
+[04:23:00][Data thread] Aquired local data #21: Temp = 25.1 Humidity = 53
+[04:24:02][Data thread] Aquired local data #22: Temp = 25.1 Humidity = 51
+[04:25:02][Data thread] Aquired local data #23: Temp = 25.1 Humidity = 51
+[04:26:03][Data thread] Aquired local data #24: Temp = 25.1 Humidity = 51
+[04:27:01][Data thread] Aquired local data #25: Temp = 25.2 Humidity = 54
+[04:28:01][Data thread] Aquired local data #26: Temp = 25.1 Humidity = 53
+[04:29:01][Data thread] Aquired local data #27: Temp = 25.1 Humidity = 54
+[04:30:01][Data thread] Aquired local data #28: Temp = 25.1 Humidity = 53
+[04:31:01][Data thread] Aquired local data #29: Temp = 25.1 Humidity = 53
+[04:32:01][Data thread] Aquired local data #30: Temp = 25.1 Humidity = 54
+[04:33:01][Data thread] Aquired local data #31: Temp = 25.1 Humidity = 53
+[04:34:01][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 53
+[04:35:02][Data thread] Aquired local data #33: Temp = 25.1 Humidity = 51
+[04:36:03][Data thread] Aquired local data #34: Temp = 25.1 Humidity = 51
+[04:37:04][Data thread] Aquired local data #35: Temp = 25.1 Humidity = 51
+[04:38:01][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 54
+[04:39:01][Data thread] Aquired local data #37: Temp = 25.1 Humidity = 54
+[04:40:01][Data thread] Aquired local data #38: Temp = 25.1 Humidity = 54
+[04:41:02][Data thread] Aquired local data #39: Temp = 25.1 Humidity = 51
+[04:42:01][Data thread] Aquired local data #40: Temp = 25.1 Humidity = 54
+[04:43:04][Data thread] Aquired local data #41: Temp = 25.1 Humidity = 51
+[04:44:01][Data thread] Aquired local data #42: Temp = 25.1 Humidity = 54
+[04:45:01][Data thread] Aquired local data #43: Temp = 25.1 Humidity = 54
+[04:46:03][Data thread] Aquired local data #44: Temp = 25.1 Humidity = 51
+[04:47:05][Data thread] Aquired local data #45: Temp = 25.1 Humidity = 51
+[04:48:03][Data thread] Aquired local data #46: Temp = 25.2 Humidity = 51
+[04:49:02][Data thread] Aquired local data #47: Temp = 25.1 Humidity = 54
+[04:50:03][Data thread] Aquired local data #48: Temp = 25.1 Humidity = 51
+[04:51:03][Data thread] Aquired local data #49: Temp = 25.1 Humidity = 51
+[04:52:03][Data thread] Aquired local data #50: Temp = 25.1 Humidity = 51
+[04:53:02][Data thread] Aquired local data #51: Temp = 25.1 Humidity = 54
+[04:54:04][Data thread] Aquired local data #52: Temp = 25.1 Humidity = 51
+[04:55:04][Data thread] Aquired local data #53: Temp = 25.1 Humidity = 51
+[04:56:03][Data thread] Aquired local data #54: Temp = 25.1 Humidity = 51
+[04:57:05][Data thread] Aquired local data #55: Temp = 25.1 Humidity = 51
+[04:58:02][Data thread] Aquired local data #56: Temp = 25.2 Humidity = 54
+[04:59:02][Data thread] Aquired local data #57: Temp = 25.1 Humidity = 54
+[05:00:04][Data thread] Aquired local data #58: Temp = 25.1 Humidity = 51
+[05:01:04][Data thread] Aquired local data #59: Temp = 25.1 Humidity = 51
+[05:02:02][Data thread] Aquired local data #60: Temp = 25.1 Humidity = 54
+[05:03:01][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.1 Ave Humidity = 52
+[None, None, None, 25.21666666666669, 25.128333333333316, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, 50.983333333333334, 52.166666666666664, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[05:03:02][Data thread] Aquired local data #1: Temp = 25.1 Humidity = 54
+[05:03:14][Main thread] Attempting to get Cimis data for hour 3:00
+[05:03:16][Main thread] Obtained Cimis data for hour 3:00
+Date = 2019-06-10 Hour = 0300 Humidity = 95  Temperature = 14.8 Eto = 0
+[05:03:16][Main thread] Attempting to get local data for hour 3:00
+[05:03:16][Main thread] Obtained Local data for hour 3:00
+[05:03:16][Main thread] Local data ready for 3:00 ready: Ave Temp = 25.22 Ave Humidity = 51
+[05:03:16][Main thread] Eto is zero for hour 3:00. No need to irrigate for this hour
+[05:03:16][Main thread] Attempting to get Cimis data for hour 4:00
+[05:03:16][Main thread] Cimis data not yet available. Will try again in one hour
+[05:04:02][Data thread] Aquired local data #2: Temp = 25.1 Humidity = 54
+[05:05:03][Data thread] Aquired local data #3: Temp = 25.1 Humidity = 51
+[05:06:02][Data thread] Aquired local data #4: Temp = 25.1 Humidity = 54
+[05:07:07][Data thread] Aquired local data #5: Temp = 25.1 Humidity = 51
+[05:08:04][Data thread] Aquired local data #6: Temp = 25.2 Humidity = 51
+[05:09:04][Data thread] Aquired local data #7: Temp = 25.1 Humidity = 51
+[05:10:05][Data thread] Aquired local data #8: Temp = 25.1 Humidity = 51
+[05:11:03][Data thread] Aquired local data #9: Temp = 25.1 Humidity = 54
+[05:12:03][Data thread] Aquired local data #10: Temp = 25.1 Humidity = 54
+[05:13:04][Data thread] Aquired local data #11: Temp = 25.1 Humidity = 51
+[05:14:03][Data thread] Aquired local data #12: Temp = 25.1 Humidity = 54
+[05:15:05][Data thread] Aquired local data #13: Temp = 25.1 Humidity = 51
+[05:16:05][Data thread] Aquired local data #14: Temp = 25.1 Humidity = 51
+[05:17:05][Data thread] Aquired local data #15: Temp = 25.1 Humidity = 51
+[05:18:03][Data thread] Aquired local data #16: Temp = 25.1 Humidity = 54
+[05:19:04][Data thread] Aquired local data #17: Temp = 25.1 Humidity = 51
+[05:20:04][Data thread] Aquired local data #18: Temp = 25.1 Humidity = 51
+[05:21:03][Data thread] Aquired local data #19: Temp = 25.1 Humidity = 54
+[05:22:04][Data thread] Aquired local data #20: Temp = 25.1 Humidity = 52
+[05:23:03][Data thread] Aquired local data #21: Temp = 25.1 Humidity = 55
+[05:24:03][Data thread] Aquired local data #22: Temp = 25.1 Humidity = 54
+[05:25:03][Data thread] Aquired local data #23: Temp = 25.1 Humidity = 55
+[05:26:05][Data thread] Aquired local data #24: Temp = 25.1 Humidity = 52
+[05:27:07][Data thread] Aquired local data #25: Temp = 25.1 Humidity = 52
+[05:28:05][Data thread] Aquired local data #26: Temp = 25.1 Humidity = 52
+[05:29:06][Data thread] Aquired local data #27: Temp = 25.1 Humidity = 52
+[05:30:05][Data thread] Aquired local data #28: Temp = 25.1 Humidity = 52
+[05:31:04][Data thread] Aquired local data #29: Temp = 25.1 Humidity = 55
+[05:32:04][Data thread] Aquired local data #30: Temp = 25.1 Humidity = 55
+[05:33:04][Data thread] Aquired local data #31: Temp = 25.1 Humidity = 55
+[05:34:04][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 55
+[05:35:04][Data thread] Aquired local data #33: Temp = 25.1 Humidity = 55
+[05:36:04][Data thread] Aquired local data #34: Temp = 25.1 Humidity = 55
+[05:37:05][Data thread] Aquired local data #35: Temp = 25.1 Humidity = 52
+[05:38:05][Data thread] Aquired local data #36: Temp = 25.1 Humidity = 52
+[05:39:05][Data thread] Aquired local data #37: Temp = 25.1 Humidity = 52
+[05:40:04][Data thread] Aquired local data #38: Temp = 25.1 Humidity = 55
+[05:41:04][Data thread] Aquired local data #39: Temp = 25.1 Humidity = 55
+[05:42:04][Data thread] Aquired local data #40: Temp = 25.1 Humidity = 55
+[05:43:05][Data thread] Aquired local data #41: Temp = 25.1 Humidity = 52
+[05:44:04][Data thread] Aquired local data #42: Temp = 25.1 Humidity = 55
+[05:45:04][Data thread] Aquired local data #43: Temp = 25.1 Humidity = 55
+[05:46:05][Data thread] Aquired local data #44: Temp = 25.1 Humidity = 52
+[05:47:04][Data thread] Aquired local data #45: Temp = 25.1 Humidity = 55
+[05:48:05][Data thread] Aquired local data #46: Temp = 25.1 Humidity = 52
+[05:49:04][Data thread] Aquired local data #47: Temp = 25.1 Humidity = 55
+[05:50:07][Data thread] Aquired local data #48: Temp = 25.1 Humidity = 52
+[05:51:06][Data thread] Aquired local data #49: Temp = 25.1 Humidity = 52
+[05:52:07][Data thread] Aquired local data #50: Temp = 25.1 Humidity = 52
+[05:53:05][Data thread] Aquired local data #51: Temp = 25.1 Humidity = 55
+[05:54:06][Data thread] Aquired local data #52: Temp = 25.1 Humidity = 52
+[05:55:06][Data thread] Aquired local data #53: Temp = 25.1 Humidity = 52
+[05:56:08][Data thread] Aquired local data #54: Temp = 25.1 Humidity = 52
+[05:57:05][Data thread] Aquired local data #55: Temp = 25.1 Humidity = 55
+[05:58:05][Data thread] Aquired local data #56: Temp = 25.1 Humidity = 55
+[05:59:07][Data thread] Aquired local data #57: Temp = 25.1 Humidity = 52
+[06:00:06][Data thread] Aquired local data #58: Temp = 25.1 Humidity = 52
+[06:01:05][Data thread] Aquired local data #59: Temp = 25.1 Humidity = 55
+[06:02:05][Data thread] Aquired local data #60: Temp = 25.1 Humidity = 55
+[06:03:04][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.1 Ave Humidity = 53
+[None, None, None, None, 25.128333333333316, 25.101666666666645, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, 52.166666666666664, 53.11666666666667, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[06:03:05][Data thread] Aquired local data #1: Temp = 25.1 Humidity = 55
+[06:03:16][Main thread] Attempting to get Cimis data for hour 4:00
+[06:03:17][Main thread] Obtained Cimis data for hour 4:00
+Date = 2019-06-10 Hour = 0400 Humidity = 94  Temperature = 14.5 Eto = 0
+[06:03:17][Main thread] Attempting to get local data for hour 4:00
+[06:03:17][Main thread] Obtained Local data for hour 4:00
+[06:03:17][Main thread] Local data ready for 4:00 ready: Ave Temp = 25.13 Ave Humidity = 52
+[06:03:17][Main thread] Eto is zero for hour 4:00. No need to irrigate for this hour
+[06:03:17][Main thread] Attempting to get Cimis data for hour 5:00
+[06:03:17][Main thread] Cimis data not yet available. Will try again in one hour
+[06:04:05][Data thread] Aquired local data #2: Temp = 25.1 Humidity = 55
+[06:05:05][Data thread] Aquired local data #3: Temp = 25.1 Humidity = 55
+[06:06:09][Data thread] Aquired local data #4: Temp = 25.1 Humidity = 52
+[06:07:06][Data thread] Aquired local data #5: Temp = 25.1 Humidity = 52
+[06:08:06][Data thread] Aquired local data #6: Temp = 25.0 Humidity = 52
+[06:09:06][Data thread] Aquired local data #7: Temp = 25.1 Humidity = 52
+[06:10:06][Data thread] Aquired local data #8: Temp = 25.0 Humidity = 52
+[06:11:08][Data thread] Aquired local data #9: Temp = 25.1 Humidity = 52
+[06:12:05][Data thread] Aquired local data #10: Temp = 25.1 Humidity = 55
+[06:13:08][Data thread] Aquired local data #11: Temp = 25.0 Humidity = 52
+[06:14:07][Data thread] Aquired local data #12: Temp = 25.1 Humidity = 52
+[06:15:07][Data thread] Aquired local data #13: Temp = 25.0 Humidity = 52
+[06:16:06][Data thread] Aquired local data #14: Temp = 25.1 Humidity = 55
+[06:17:08][Data thread] Aquired local data #15: Temp = 25.1 Humidity = 52
+[06:18:06][Data thread] Aquired local data #16: Temp = 25.1 Humidity = 55
+[06:19:06][Data thread] Aquired local data #17: Temp = 25.1 Humidity = 55
+[06:20:08][Data thread] Aquired local data #18: Temp = 25.0 Humidity = 52
+[06:21:07][Data thread] Aquired local data #19: Temp = 25.1 Humidity = 52
+[06:22:14][Data thread] Aquired local data #20: Temp = 25.1 Humidity = 52
+[06:23:07][Data thread] Aquired local data #21: Temp = 25.0 Humidity = 52
+[06:24:09][Data thread] Aquired local data #22: Temp = 25.1 Humidity = 52
+[06:25:06][Data thread] Aquired local data #23: Temp = 25.1 Humidity = 55
+[06:26:06][Data thread] Aquired local data #24: Temp = 25.1 Humidity = 55
+[06:27:10][Data thread] Aquired local data #25: Temp = 25.1 Humidity = 52
+[06:28:08][Data thread] Aquired local data #26: Temp = 25.0 Humidity = 52
+[06:29:06][Data thread] Aquired local data #27: Temp = 25.1 Humidity = 55
+[06:30:06][Data thread] Aquired local data #28: Temp = 25.1 Humidity = 55
+[06:31:06][Data thread] Aquired local data #29: Temp = 25.0 Humidity = 55
+[06:32:06][Data thread] Aquired local data #30: Temp = 25.1 Humidity = 55
+[06:33:09][Data thread] Aquired local data #31: Temp = 25.0 Humidity = 52
+[06:34:08][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 52
+[06:35:08][Data thread] Aquired local data #33: Temp = 25.1 Humidity = 52
+[06:36:07][Data thread] Aquired local data #34: Temp = 25.1 Humidity = 55
+[06:37:07][Data thread] Aquired local data #35: Temp = 25.1 Humidity = 55
+[06:38:07][Data thread] Aquired local data #36: Temp = 25.0 Humidity = 55
+[06:39:07][Data thread] Aquired local data #37: Temp = 25.1 Humidity = 55
+[06:40:07][Data thread] Aquired local data #38: Temp = 25.0 Humidity = 55
+[06:41:07][Data thread] Aquired local data #39: Temp = 25.0 Humidity = 55
+[06:42:10][Data thread] Aquired local data #40: Temp = 25.0 Humidity = 52
+[06:43:08][Data thread] Aquired local data #41: Temp = 25.0 Humidity = 52
+[06:44:07][Data thread] Aquired local data #42: Temp = 25.1 Humidity = 55
+[06:45:07][Data thread] Aquired local data #43: Temp = 25.1 Humidity = 55
+[06:46:08][Data thread] Aquired local data #44: Temp = 25.1 Humidity = 52
+[06:47:07][Data thread] Aquired local data #45: Temp = 25.1 Humidity = 55
+[06:48:09][Data thread] Aquired local data #46: Temp = 25.0 Humidity = 52
+[06:49:09][Data thread] Aquired local data #47: Temp = 25.1 Humidity = 52
+[06:50:11][Data thread] Aquired local data #48: Temp = 25.0 Humidity = 52
+[06:51:12][Data thread] Aquired local data #49: Temp = 25.0 Humidity = 52
+[06:52:07][Data thread] Aquired local data #50: Temp = 25.1 Humidity = 55
+[06:53:09][Data thread] Aquired local data #51: Temp = 25.0 Humidity = 52
+[06:54:11][Data thread] Aquired local data #52: Temp = 25.0 Humidity = 52
+[06:55:08][Data thread] Aquired local data #53: Temp = 25.1 Humidity = 52
+[06:56:10][Data thread] Aquired local data #54: Temp = 25.0 Humidity = 52
+[06:57:08][Data thread] Aquired local data #55: Temp = 25.0 Humidity = 52
+[06:58:08][Data thread] Aquired local data #56: Temp = 25.0 Humidity = 53
+[06:59:07][Data thread] Aquired local data #57: Temp = 25.1 Humidity = 55
+[07:00:07][Data thread] Aquired local data #58: Temp = 25.0 Humidity = 55
+[07:01:09][Data thread] Aquired local data #59: Temp = 25.0 Humidity = 53
+[07:02:10][Data thread] Aquired local data #60: Temp = 25.0 Humidity = 52
+[07:03:06][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.1 Ave Humidity = 53
+[None, None, None, None, None, 25.101666666666645, 25.058333333333326, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, 53.11666666666667, 53.28333333333333, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[07:03:09][Data thread] Aquired local data #1: Temp = 25.0 Humidity = 53
+[07:03:17][Main thread] Attempting to get Cimis data for hour 5:00
+[07:03:20][Main thread] Obtained Cimis data for hour 5:00
+Date = 2019-06-10 Hour = 0500 Humidity = 94  Temperature = 14.2 Eto = 0
+[07:03:20][Main thread] Attempting to get local data for hour 5:00
+[07:03:20][Main thread] Obtained Local data for hour 5:00
+[07:03:20][Main thread] Local data ready for 5:00 ready: Ave Temp = 25.1 Ave Humidity = 53
+[07:03:20][Main thread] Eto is zero for hour 5:00. No need to irrigate for this hour
+[07:03:20][Main thread] Attempting to get Cimis data for hour 6:00
+[07:03:21][Main thread] Cimis data not yet available. Will try again in one hour
+[07:04:09][Data thread] Aquired local data #2: Temp = 25.1 Humidity = 52
+[07:05:09][Data thread] Aquired local data #3: Temp = 25.1 Humidity = 53
+[07:06:09][Data thread] Aquired local data #4: Temp = 25.0 Humidity = 52
+[07:07:08][Data thread] Aquired local data #5: Temp = 25.1 Humidity = 55
+[07:08:08][Data thread] Aquired local data #6: Temp = 25.0 Humidity = 55
+[07:09:08][Data thread] Aquired local data #7: Temp = 25.0 Humidity = 55
+[07:10:09][Data thread] Aquired local data #8: Temp = 25.0 Humidity = 52
+[07:11:09][Data thread] Aquired local data #9: Temp = 25.0 Humidity = 52
+[07:12:13][Data thread] Aquired local data #10: Temp = 25.0 Humidity = 52
+[07:13:09][Data thread] Aquired local data #11: Temp = 25.0 Humidity = 52
+[07:14:11][Data thread] Aquired local data #12: Temp = 25.0 Humidity = 52
+[07:15:09][Data thread] Aquired local data #13: Temp = 25.0 Humidity = 53
+[07:16:12][Data thread] Aquired local data #14: Temp = 25.0 Humidity = 52
+[07:17:08][Data thread] Aquired local data #15: Temp = 25.1 Humidity = 55
+[07:18:10][Data thread] Aquired local data #16: Temp = 25.0 Humidity = 52
+[07:19:08][Data thread] Aquired local data #17: Temp = 25.1 Humidity = 55
+[07:20:08][Data thread] Aquired local data #18: Temp = 25.0 Humidity = 55
+[07:21:09][Data thread] Aquired local data #19: Temp = 25.0 Humidity = 53
+[07:22:08][Data thread] Aquired local data #20: Temp = 25.1 Humidity = 55
+[07:23:11][Data thread] Aquired local data #21: Temp = 25.0 Humidity = 53
+[07:24:08][Data thread] Aquired local data #22: Temp = 25.1 Humidity = 55
+[07:25:08][Data thread] Aquired local data #23: Temp = 25.0 Humidity = 55
+[07:26:08][Data thread] Aquired local data #24: Temp = 25.0 Humidity = 55
+[07:27:09][Data thread] Aquired local data #25: Temp = 25.0 Humidity = 55
+[07:28:12][Data thread] Aquired local data #26: Temp = 25.0 Humidity = 53
+[07:29:09][Data thread] Aquired local data #27: Temp = 25.1 Humidity = 55
+[07:30:09][Data thread] Aquired local data #28: Temp = 25.0 Humidity = 55
+[07:31:10][Data thread] Aquired local data #29: Temp = 25.0 Humidity = 53
+[07:32:09][Data thread] Aquired local data #30: Temp = 25.0 Humidity = 55
+[07:33:10][Data thread] Aquired local data #31: Temp = 25.0 Humidity = 53
+[07:34:10][Data thread] Aquired local data #32: Temp = 25.0 Humidity = 53
+[07:35:11][Data thread] Aquired local data #33: Temp = 25.0 Humidity = 53
+[07:36:10][Data thread] Aquired local data #34: Temp = 25.0 Humidity = 53
+[07:37:09][Data thread] Aquired local data #35: Temp = 25.0 Humidity = 56
+[07:38:09][Data thread] Aquired local data #36: Temp = 25.0 Humidity = 56
+[07:39:09][Data thread] Aquired local data #37: Temp = 25.0 Humidity = 56
+[07:40:12][Data thread] Aquired local data #38: Temp = 25.0 Humidity = 53
+[07:41:09][Data thread] Aquired local data #39: Temp = 25.0 Humidity = 56
+[07:42:09][Data thread] Aquired local data #40: Temp = 25.0 Humidity = 56
+[07:43:10][Data thread] Aquired local data #41: Temp = 25.0 Humidity = 53
+[07:44:13][Data thread] Aquired local data #42: Temp = 25.0 Humidity = 53
+[07:45:09][Data thread] Aquired local data #43: Temp = 25.0 Humidity = 56
+[07:46:09][Data thread] Aquired local data #44: Temp = 25.0 Humidity = 56
+[07:47:09][Data thread] Aquired local data #45: Temp = 25.0 Humidity = 56
+[07:48:10][Data thread] Aquired local data #46: Temp = 25.0 Humidity = 56
+[07:49:13][Data thread] Aquired local data #47: Temp = 25.0 Humidity = 53
+[07:50:12][Data thread] Aquired local data #48: Temp = 25.0 Humidity = 53
+[07:51:10][Data thread] Aquired local data #49: Temp = 25.1 Humidity = 56
+[07:52:10][Data thread] Aquired local data #50: Temp = 25.0 Humidity = 56
+[07:53:14][Data thread] Aquired local data #51: Temp = 25.0 Humidity = 53
+[07:54:10][Data thread] Aquired local data #52: Temp = 25.1 Humidity = 56
+[07:55:11][Data thread] Aquired local data #53: Temp = 25.0 Humidity = 53
+[07:56:11][Data thread] Aquired local data #54: Temp = 25.0 Humidity = 53
+[07:57:10][Data thread] Aquired local data #55: Temp = 25.0 Humidity = 56
+[07:58:10][Data thread] Aquired local data #56: Temp = 25.0 Humidity = 56
+[07:59:12][Data thread] Aquired local data #57: Temp = 25.0 Humidity = 53
+[08:00:10][Data thread] Aquired local data #58: Temp = 25.0 Humidity = 56
+[08:01:11][Data thread] Aquired local data #59: Temp = 25.0 Humidity = 53
+[08:02:11][Data thread] Aquired local data #60: Temp = 25.0 Humidity = 53
+[08:03:09][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.0 Ave Humidity = 54
+[None, None, None, None, None, None, 25.058333333333326, 25.016666666666666, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, 53.28333333333333, 54.06666666666667, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[08:03:14][Data thread] Aquired local data #1: Temp = 25.1 Humidity = 53
+[08:03:21][Main thread] Attempting to get Cimis data for hour 6:00
+[08:03:22][Main thread] Obtained Cimis data for hour 6:00
+Date = 2019-06-10 Hour = 0600 Humidity = 89  Temperature = 16.1 Eto = 0.07
+[08:03:22][Main thread] Attempting to get local data for hour 6:00
+[08:03:22][Main thread] Obtained Local data for hour 6:00
+[08:03:22][Main thread] Local data ready for 6:00 ready: Ave Temp = 25.06 Ave Humidity = 53
+[08:03:22][Main thread] Turning on relay. Irrigate for 33.18453521403937 seconds
+[08:03:55][Main thread] Turning off relay. Finished irrigation for hour 6:00
+[08:03:55][Main thread] Attempting to get Cimis data for hour 7:00
+[08:03:55][Main thread] Cimis data not yet available. Will try again in one hour
+[08:04:10][Data thread] Aquired local data #2: Temp = 25.1 Humidity = 56
+[08:05:11][Data thread] Aquired local data #3: Temp = 25.0 Humidity = 53
+[08:06:15][Data thread] Aquired local data #4: Temp = 25.0 Humidity = 53
+[08:07:10][Data thread] Aquired local data #5: Temp = 25.1 Humidity = 56
+[08:08:10][Data thread] Aquired local data #6: Temp = 25.0 Humidity = 56
+[08:09:12][Data thread] Aquired local data #7: Temp = 25.0 Humidity = 53
+[08:10:11][Data thread] Aquired local data #8: Temp = 25.0 Humidity = 56
+[08:11:13][Data thread] Aquired local data #9: Temp = 25.0 Humidity = 53
+[08:12:11][Data thread] Aquired local data #10: Temp = 25.1 Humidity = 56
+[08:13:15][Data thread] Aquired local data #11: Temp = 25.0 Humidity = 53
+[08:14:12][Data thread] Aquired local data #12: Temp = 25.0 Humidity = 53
+[08:15:11][Data thread] Aquired local data #13: Temp = 25.1 Humidity = 56
+[08:16:11][Data thread] Aquired local data #14: Temp = 25.0 Humidity = 56
+[08:17:13][Data thread] Aquired local data #15: Temp = 25.0 Humidity = 53
+[08:18:13][Data thread] Aquired local data #16: Temp = 25.0 Humidity = 53
+[08:19:12][Data thread] Aquired local data #17: Temp = 25.1 Humidity = 53
+[08:20:12][Data thread] Aquired local data #18: Temp = 25.1 Humidity = 53
+[08:21:11][Data thread] Aquired local data #19: Temp = 25.1 Humidity = 56
+[08:22:11][Data thread] Aquired local data #20: Temp = 25.0 Humidity = 56
+[08:23:11][Data thread] Aquired local data #21: Temp = 25.0 Humidity = 56
+[08:24:15][Data thread] Aquired local data #22: Temp = 25.0 Humidity = 53
+[08:25:12][Data thread] Aquired local data #23: Temp = 25.0 Humidity = 53
+[08:26:12][Data thread] Aquired local data #24: Temp = 25.0 Humidity = 53
+[08:27:15][Data thread] Aquired local data #25: Temp = 25.0 Humidity = 53
+[08:28:12][Data thread] Aquired local data #26: Temp = 25.0 Humidity = 53
+[08:29:13][Data thread] Aquired local data #27: Temp = 25.0 Humidity = 53
+[08:30:11][Data thread] Aquired local data #28: Temp = 25.1 Humidity = 56
+[08:31:13][Data thread] Aquired local data #29: Temp = 25.0 Humidity = 53
+[08:32:12][Data thread] Aquired local data #30: Temp = 25.1 Humidity = 56
+[08:33:14][Data thread] Aquired local data #31: Temp = 25.0 Humidity = 53
+[08:34:12][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 56
+[08:35:12][Data thread] Aquired local data #33: Temp = 25.0 Humidity = 56
+[08:36:12][Data thread] Aquired local data #34: Temp = 25.0 Humidity = 56
+[08:37:14][Data thread] Aquired local data #35: Temp = 25.0 Humidity = 53
+[08:38:12][Data thread] Aquired local data #36: Temp = 25.1 Humidity = 56
+[08:39:12][Data thread] Aquired local data #37: Temp = 25.0 Humidity = 56
+[08:40:13][Data thread] Aquired local data #38: Temp = 25.0 Humidity = 53
+[08:41:17][Data thread] Aquired local data #39: Temp = 25.1 Humidity = 53
+[08:42:15][Data thread] Aquired local data #40: Temp = 25.0 Humidity = 53
+[08:43:12][Data thread] Aquired local data #41: Temp = 25.0 Humidity = 56
+[08:44:13][Data thread] Aquired local data #42: Temp = 25.0 Humidity = 53
+[08:45:14][Data thread] Aquired local data #43: Temp = 25.0 Humidity = 53
+[08:46:13][Data thread] Aquired local data #44: Temp = 25.0 Humidity = 53
+[08:47:12][Data thread] Aquired local data #45: Temp = 25.0 Humidity = 56
+[08:48:13][Data thread] Aquired local data #46: Temp = 25.0 Humidity = 53
+[08:49:12][Data thread] Aquired local data #47: Temp = 25.0 Humidity = 56
+[08:50:13][Data thread] Aquired local data #48: Temp = 25.0 Humidity = 53
+[08:51:15][Data thread] Aquired local data #49: Temp = 25.0 Humidity = 53
+[08:52:15][Data thread] Aquired local data #50: Temp = 25.0 Humidity = 53
+[08:53:14][Data thread] Aquired local data #51: Temp = 25.0 Humidity = 53
+[08:54:12][Data thread] Aquired local data #52: Temp = 25.1 Humidity = 56
+[08:55:13][Data thread] Aquired local data #53: Temp = 25.0 Humidity = 56
+[08:56:15][Data thread] Aquired local data #54: Temp = 25.0 Humidity = 53
+[08:57:14][Data thread] Aquired local data #55: Temp = 25.0 Humidity = 53
+[08:58:14][Data thread] Aquired local data #56: Temp = 25.0 Humidity = 53
+[08:59:13][Data thread] Aquired local data #57: Temp = 25.0 Humidity = 56
+[09:00:14][Data thread] Aquired local data #58: Temp = 25.0 Humidity = 53
+[09:01:15][Data thread] Aquired local data #59: Temp = 25.0 Humidity = 53
+[09:02:14][Data thread] Aquired local data #60: Temp = 25.0 Humidity = 53
+[09:03:12][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.0 Ave Humidity = 54
+[None, None, None, None, None, None, None, 25.016666666666666, 25.023333333333333, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, 54.06666666666667, 54.15, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[09:03:13][Data thread] Aquired local data #1: Temp = 25.1 Humidity = 56
+[09:03:55][Main thread] Attempting to get Cimis data for hour 7:00
+[09:03:55][Main thread] Obtained Cimis data for hour 7:00
+Date = 2019-06-10 Hour = 0700 Humidity = 80  Temperature = 18.4 Eto = 0.18
+[09:03:55][Main thread] Attempting to get local data for hour 7:00
+[09:03:55][Main thread] Obtained Local data for hour 7:00
+[09:03:55][Main thread] Local data ready for 7:00 ready: Ave Temp = 25.02 Ave Humidity = 54
+[09:03:55][Main thread] Turning on relay. Irrigate for 66.03243130737523 seconds
+[09:04:04][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[09:04:13][Data thread] Aquired local data #2: Temp = 25.0 Humidity = 56
+[09:04:14][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[09:04:24][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[09:04:34][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[09:04:44][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[09:04:54][Main thread] Motion detected. Turning off irrigation for 10 seconds
+[09:05:32][Data thread] Aquired local data #3: Temp = 24.8 Humidity = 53
+[09:06:01][Main thread] Turning off relay. Finished irrigation for hour 7:00
+[09:06:01][Main thread] Attempting to get Cimis data for hour 8:00
+[09:06:02][Main thread] Cimis data not yet available. Will try again in one hour
+[09:06:13][Data thread] Aquired local data #4: Temp = 25.3 Humidity = 56
+[09:07:15][Data thread] Aquired local data #5: Temp = 25.1 Humidity = 53
+[09:08:14][Data thread] Aquired local data #6: Temp = 25.1 Humidity = 53
+[09:09:17][Data thread] Aquired local data #7: Temp = 25.1 Humidity = 53
+[09:10:14][Data thread] Aquired local data #8: Temp = 25.1 Humidity = 53
+[09:11:16][Data thread] Aquired local data #9: Temp = 25.1 Humidity = 53
+[09:12:14][Data thread] Aquired local data #10: Temp = 25.1 Humidity = 53
+[09:13:16][Data thread] Aquired local data #11: Temp = 25.1 Humidity = 53
+[09:14:15][Data thread] Aquired local data #12: Temp = 25.1 Humidity = 53
+[09:15:13][Data thread] Aquired local data #13: Temp = 25.1 Humidity = 56
+[09:16:18][Data thread] Aquired local data #14: Temp = 25.0 Humidity = 53
+[09:17:15][Data thread] Aquired local data #15: Temp = 25.1 Humidity = 53
+[09:18:14][Data thread] Aquired local data #16: Temp = 25.1 Humidity = 56
+[09:19:14][Data thread] Aquired local data #17: Temp = 25.0 Humidity = 56
+[09:20:14][Data thread] Aquired local data #18: Temp = 25.0 Humidity = 56
+[09:21:14][Data thread] Aquired local data #19: Temp = 25.0 Humidity = 56
+[09:22:14][Data thread] Aquired local data #20: Temp = 25.1 Humidity = 56
+[09:23:14][Data thread] Aquired local data #21: Temp = 25.0 Humidity = 56
+[09:24:14][Data thread] Aquired local data #22: Temp = 25.0 Humidity = 56
+[09:25:14][Data thread] Aquired local data #23: Temp = 25.0 Humidity = 56
+[09:26:16][Data thread] Aquired local data #24: Temp = 25.0 Humidity = 53
+[09:27:15][Data thread] Aquired local data #25: Temp = 25.0 Humidity = 53
+[09:28:14][Data thread] Aquired local data #26: Temp = 25.1 Humidity = 56
+[09:29:15][Data thread] Aquired local data #27: Temp = 25.0 Humidity = 53
+[09:30:14][Data thread] Aquired local data #28: Temp = 25.1 Humidity = 56
+[09:31:14][Data thread] Aquired local data #29: Temp = 25.0 Humidity = 56
+[09:32:15][Data thread] Aquired local data #30: Temp = 25.0 Humidity = 54
+[09:33:18][Data thread] Aquired local data #31: Temp = 25.1 Humidity = 56
+[09:34:14][Data thread] Aquired local data #32: Temp = 25.1 Humidity = 60
+[09:35:17][Data thread] Aquired local data #33: Temp = 25.1 Humidity = 58
+[09:36:17][Data thread] Aquired local data #34: Temp = 25.2 Humidity = 60
+[09:37:14][Data thread] Aquired local data #35: Temp = 25.2 Humidity = 66
+[09:38:15][Data thread] Aquired local data #36: Temp = 25.2 Humidity = 66
+[09:39:16][Data thread] Aquired local data #37: Temp = 25.2 Humidity = 63
+[09:40:15][Data thread] Aquired local data #38: Temp = 25.3 Humidity = 66
+[09:41:18][Data thread] Aquired local data #39: Temp = 25.3 Humidity = 63
+[09:42:15][Data thread] Aquired local data #40: Temp = 25.3 Humidity = 66
+[09:43:15][Data thread] Aquired local data #41: Temp = 25.2 Humidity = 65
+[09:44:17][Data thread] Aquired local data #42: Temp = 25.3 Humidity = 64
+[09:45:16][Data thread] Aquired local data #43: Temp = 25.2 Humidity = 65
+[09:46:15][Data thread] Aquired local data #44: Temp = 25.3 Humidity = 69
+[09:47:15][Data thread] Aquired local data #45: Temp = 25.3 Humidity = 68
+[09:48:15][Data thread] Aquired local data #46: Temp = 25.3 Humidity = 67
+[09:49:15][Data thread] Aquired local data #47: Temp = 25.3 Humidity = 66
+[09:50:16][Data thread] Aquired local data #48: Temp = 25.3 Humidity = 64
+[09:51:17][Data thread] Aquired local data #49: Temp = 25.3 Humidity = 65
+[09:52:15][Data thread] Aquired local data #50: Temp = 25.3 Humidity = 68
+[09:53:15][Data thread] Aquired local data #51: Temp = 25.3 Humidity = 68
+[09:54:15][Data thread] Aquired local data #52: Temp = 25.3 Humidity = 69
+[09:55:15][Data thread] Aquired local data #53: Temp = 25.3 Humidity = 67
+[09:56:17][Data thread] Aquired local data #54: Temp = 25.3 Humidity = 64
+[09:57:17][Data thread] Aquired local data #55: Temp = 25.3 Humidity = 64
+[09:58:18][Data thread] Aquired local data #56: Temp = 25.3 Humidity = 65
+[09:59:17][Data thread] Aquired local data #57: Temp = 25.4 Humidity = 65
+[10:00:16][Data thread] Aquired local data #58: Temp = 25.3 Humidity = 67
+[10:01:18][Data thread] Aquired local data #59: Temp = 25.3 Humidity = 65
+[10:02:16][Data thread] Aquired local data #60: Temp = 25.4 Humidity = 67
+[10:03:15][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.2 Ave Humidity = 60
+[None, None, None, None, None, None, None, None, 25.023333333333333, 25.159999999999993, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, 54.15, 59.7, None, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[10:03:17][Data thread] Aquired local data #1: Temp = 25.3 Humidity = 65
+[10:04:17][Data thread] Aquired local data #2: Temp = 25.4 Humidity = 64
+[10:05:22][Data thread] Aquired local data #3: Temp = 25.5 Humidity = 63
+[10:06:02][Main thread] Attempting to get Cimis data for hour 8:00
+[10:06:18][Data thread] Aquired local data #4: Temp = 25.5 Humidity = 64
+[10:07:18][Data thread] Aquired local data #5: Temp = 25.5 Humidity = 64
+[10:08:16][Data thread] Aquired local data #6: Temp = 25.5 Humidity = 68
+[10:09:16][Data thread] Aquired local data #7: Temp = 25.4 Humidity = 68
+[10:10:16][Data thread] Aquired local data #8: Temp = 25.4 Humidity = 68
+CMIS request was rejected
+[10:11:03][Main thread] A problem occured requesting data from Cimis. Will try again in one hour
+[10:11:20][Data thread] Aquired local data #9: Temp = 25.4 Humidity = 64
+[10:12:17][Data thread] Aquired local data #10: Temp = 25.5 Humidity = 63
+[10:13:16][Data thread] Aquired local data #11: Temp = 25.5 Humidity = 66
+[10:14:17][Data thread] Aquired local data #12: Temp = 25.4 Humidity = 63
+[10:15:16][Data thread] Aquired local data #13: Temp = 25.5 Humidity = 65
+[10:16:19][Data thread] Aquired local data #14: Temp = 25.3 Humidity = 63
+[10:17:19][Data thread] Aquired local data #15: Temp = 25.3 Humidity = 63
+[10:18:19][Data thread] Aquired local data #16: Temp = 25.4 Humidity = 63
+[10:19:17][Data thread] Aquired local data #17: Temp = 25.4 Humidity = 66
+[10:20:17][Data thread] Aquired local data #18: Temp = 25.3 Humidity = 66
+[10:21:18][Data thread] Aquired local data #19: Temp = 25.5 Humidity = 62
+[10:22:19][Data thread] Aquired local data #20: Temp = 25.5 Humidity = 62
+[10:23:18][Data thread] Aquired local data #21: Temp = 25.4 Humidity = 62
+[10:24:17][Data thread] Aquired local data #22: Temp = 25.4 Humidity = 65
+[10:25:20][Data thread] Aquired local data #23: Temp = 25.4 Humidity = 61
+[10:26:18][Data thread] Aquired local data #24: Temp = 25.3 Humidity = 61
+[10:27:17][Data thread] Aquired local data #25: Temp = 25.5 Humidity = 64
+[10:28:17][Data thread] Aquired local data #26: Temp = 25.3 Humidity = 65
+[10:29:18][Data thread] Aquired local data #27: Temp = 25.3 Humidity = 61
+[10:30:18][Data thread] Aquired local data #28: Temp = 25.3 Humidity = 61
+[10:31:19][Data thread] Aquired local data #29: Temp = 25.3 Humidity = 61
+[10:32:19][Data thread] Aquired local data #30: Temp = 25.4 Humidity = 61
+[10:33:17][Data thread] Aquired local data #31: Temp = 25.3 Humidity = 64
+[10:34:21][Data thread] Aquired local data #32: Temp = 25.3 Humidity = 61
+[10:35:18][Data thread] Aquired local data #33: Temp = 25.3 Humidity = 61
+[10:36:19][Data thread] Aquired local data #34: Temp = 25.4 Humidity = 60
+[10:37:17][Data thread] Aquired local data #35: Temp = 25.4 Humidity = 63
+[10:38:17][Data thread] Aquired local data #36: Temp = 25.3 Humidity = 63
+[10:39:20][Data thread] Aquired local data #37: Temp = 25.3 Humidity = 61
+[10:40:19][Data thread] Aquired local data #38: Temp = 25.4 Humidity = 60
+[10:41:17][Data thread] Aquired local data #39: Temp = 25.4 Humidity = 63
+[10:42:18][Data thread] Aquired local data #40: Temp = 25.3 Humidity = 63
+[10:43:18][Data thread] Aquired local data #41: Temp = 25.4 Humidity = 63
+[10:44:18][Data thread] Aquired local data #42: Temp = 25.4 Humidity = 63
+[10:45:18][Data thread] Aquired local data #43: Temp = 25.3 Humidity = 63
+[10:46:18][Data thread] Aquired local data #44: Temp = 25.3 Humidity = 63
+[10:47:19][Data thread] Aquired local data #45: Temp = 25.3 Humidity = 60
+[10:48:20][Data thread] Aquired local data #46: Temp = 25.3 Humidity = 60
+[10:49:18][Data thread] Aquired local data #47: Temp = 25.3 Humidity = 62
+[10:50:20][Data thread] Aquired local data #48: Temp = 25.3 Humidity = 60
+[10:51:18][Data thread] Aquired local data #49: Temp = 25.4 Humidity = 62
+[10:52:20][Data thread] Aquired local data #50: Temp = 25.4 Humidity = 60
+[10:53:20][Data thread] Aquired local data #51: Temp = 25.3 Humidity = 60
+[10:54:19][Data thread] Aquired local data #52: Temp = 25.4 Humidity = 60
+[10:55:18][Data thread] Aquired local data #53: Temp = 25.4 Humidity = 63
+[10:56:18][Data thread] Aquired local data #54: Temp = 25.4 Humidity = 63
+[10:57:18][Data thread] Aquired local data #55: Temp = 25.3 Humidity = 63
+[10:58:19][Data thread] Aquired local data #56: Temp = 25.3 Humidity = 60
+[10:59:18][Data thread] Aquired local data #57: Temp = 25.3 Humidity = 63
+[11:00:18][Data thread] Aquired local data #58: Temp = 25.3 Humidity = 63
+[11:01:21][Data thread] Aquired local data #59: Temp = 25.3 Humidity = 60
+[11:02:18][Data thread] Aquired local data #60: Temp = 25.3 Humidity = 63
+[11:03:17][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.4 Ave Humidity = 63
+[None, None, None, None, None, None, None, None, 25.023333333333333, 25.159999999999993, 25.36999999999999, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, 54.15, 59.7, 62.75, None, None, None, None, None, None, None, None, None, None, None, None, None]
+[11:03:20][Data thread] Aquired local data #1: Temp = 25.3 Humidity = 60
+[11:04:18][Data thread] Aquired local data #2: Temp = 25.3 Humidity = 63
+[11:05:21][Data thread] Aquired local data #3: Temp = 25.3 Humidity = 60
+[11:06:19][Data thread] Aquired local data #4: Temp = 25.3 Humidity = 63
+[11:07:19][Data thread] Aquired local data #5: Temp = 25.4 Humidity = 63
+[11:08:19][Data thread] Aquired local data #6: Temp = 25.3 Humidity = 63
+[11:09:20][Data thread] Aquired local data #7: Temp = 25.4 Humidity = 60
+[11:10:20][Data thread] Aquired local data #8: Temp = 25.4 Humidity = 60
+[11:11:03][Main thread] Attempting to get Cimis data for hour 8:00
+CMIS request was rejected
+[11:11:04][Main thread] A problem occured requesting data from Cimis. Will try again in one hour
+[11:11:21][Data thread] Aquired local data #9: Temp = 25.3 Humidity = 60
+[11:12:19][Data thread] Aquired local data #10: Temp = 25.3 Humidity = 62
+[11:13:19][Data thread] Aquired local data #11: Temp = 25.3 Humidity = 63
+[11:14:20][Data thread] Aquired local data #12: Temp = 25.3 Humidity = 60
+[11:15:19][Data thread] Aquired local data #13: Temp = 25.3 Humidity = 63
+[11:16:20][Data thread] Aquired local data #14: Temp = 25.3 Humidity = 60
+[11:17:25][Data thread] Aquired local data #15: Temp = 25.3 Humidity = 60
+[11:18:19][Data thread] Aquired local data #16: Temp = 25.4 Humidity = 63
+[11:19:19][Data thread] Aquired local data #17: Temp = 25.3 Humidity = 63
+[11:20:20][Data thread] Aquired local data #18: Temp = 25.3 Humidity = 60
+[11:21:20][Data thread] Aquired local data #19: Temp = 25.3 Humidity = 60
+[11:22:19][Data thread] Aquired local data #20: Temp = 25.3 Humidity = 63
+[11:23:19][Data thread] Aquired local data #21: Temp = 25.3 Humidity = 63
+[11:24:21][Data thread] Aquired local data #22: Temp = 25.3 Humidity = 60
+[11:25:19][Data thread] Aquired local data #23: Temp = 25.3 Humidity = 63
+[11:26:21][Data thread] Aquired local data #24: Temp = 25.3 Humidity = 60
+[11:27:23][Data thread] Aquired local data #25: Temp = 25.3 Humidity = 60
+[11:28:20][Data thread] Aquired local data #26: Temp = 25.3 Humidity = 63
+[11:29:23][Data thread] Aquired local data #27: Temp = 25.3 Humidity = 60
+[11:30:20][Data thread] Aquired local data #28: Temp = 25.4 Humidity = 63
+[11:31:20][Data thread] Aquired local data #29: Temp = 25.3 Humidity = 63
+[11:32:20][Data thread] Aquired local data #30: Temp = 25.3 Humidity = 63
+[11:33:22][Data thread] Aquired local data #31: Temp = 25.3 Humidity = 60
+[11:34:20][Data thread] Aquired local data #32: Temp = 25.3 Humidity = 63
+[11:35:22][Data thread] Aquired local data #33: Temp = 25.3 Humidity = 60
+[11:36:22][Data thread] Aquired local data #34: Temp = 25.3 Humidity = 60
+[11:37:21][Data thread] Aquired local data #35: Temp = 25.3 Humidity = 60
+[11:38:20][Data thread] Aquired local data #36: Temp = 25.3 Humidity = 62
+[11:39:25][Data thread] Aquired local data #37: Temp = 25.3 Humidity = 60
+[11:40:20][Data thread] Aquired local data #38: Temp = 25.3 Humidity = 63
+[11:41:20][Data thread] Aquired local data #39: Temp = 25.3 Humidity = 63
+[11:42:20][Data thread] Aquired local data #40: Temp = 25.3 Humidity = 63
+[11:43:21][Data thread] Aquired local data #41: Temp = 25.3 Humidity = 60
+[11:44:20][Data thread] Aquired local data #42: Temp = 25.3 Humidity = 63
+[11:45:20][Data thread] Aquired local data #43: Temp = 25.3 Humidity = 62
+[11:46:23][Data thread] Aquired local data #44: Temp = 25.3 Humidity = 60
+[11:47:20][Data thread] Aquired local data #45: Temp = 25.3 Humidity = 62
+[11:48:20][Data thread] Aquired local data #46: Temp = 25.4 Humidity = 63
+[11:49:22][Data thread] Aquired local data #47: Temp = 25.3 Humidity = 60
+[11:50:25][Data thread] Aquired local data #48: Temp = 25.3 Humidity = 60
+[11:51:20][Data thread] Aquired local data #49: Temp = 25.3 Humidity = 62
+[11:52:23][Data thread] Aquired local data #50: Temp = 25.3 Humidity = 60
+[11:53:21][Data thread] Aquired local data #51: Temp = 25.3 Humidity = 62
+[11:54:21][Data thread] Aquired local data #52: Temp = 25.4 Humidity = 62
+[11:55:21][Data thread] Aquired local data #53: Temp = 25.3 Humidity = 62
+[11:56:21][Data thread] Aquired local data #54: Temp = 25.3 Humidity = 62
+[11:57:23][Data thread] Aquired local data #55: Temp = 25.4 Humidity = 59
+[11:58:21][Data thread] Aquired local data #56: Temp = 25.3 Humidity = 62
+[11:59:24][Data thread] Aquired local data #57: Temp = 25.3 Humidity = 59
+[12:00:21][Data thread] Aquired local data #58: Temp = 25.4 Humidity = 62
+[12:01:21][Data thread] Aquired local data #59: Temp = 25.3 Humidity = 62
+[12:02:22][Data thread] Aquired local data #60: Temp = 25.3 Humidity = 59
+[12:03:20][Data thread] One hour elapsed. Writing local data
+Ave Temp = 25.3 Ave Humidity = 61
+[None, None, None, None, None, None, None, None, 25.023333333333333, 25.159999999999993, 25.36999999999999, 25.314999999999984, None, None, None, None, None, None, None, None, None, None, None, None]
+[None, None, None, None, None, None, None, None, 54.15, 59.7, 62.75, 61.4, None, None, None, None, None, None, None, None, None, None, None, None]
+[12:11:04][Main thread] Attempting to get Cimis data for hour 8:00
+[12:11:04][Main thread] Obtained Cimis data for hour 8:00
+Date = 2019-06-10 Hour = 0800 Humidity = 74  Temperature = 20.3 Eto = 0.33
+[12:11:04][Main thread] Attempting to get local data for hour 8:00
+[12:11:04][Main thread] Obtained Local data for hour 8:00
+[12:11:04][Main thread] Local data ready for 8:00 ready: Ave Temp = 25.02 Ave Humidity = 54
+[12:11:04][Main thread] Turning on relay. Irrigate for 101.369917801871 seconds
+[12:12:46][Main thread] Turning off relay. Finished irrigation for hour 8:00
+[12:12:46][Main thread] Attempting to get Cimis data for hour 9:00
+[12:12:46][Main thread] Obtained Cimis data for hour 9:00
+Date = 2019-06-10 Hour = 0900 Humidity = 71  Temperature = 21.9 Eto = 0.46
+[12:12:46][Main thread] Attempting to get local data for hour 9:00
+[12:12:46][Main thread] Obtained Local data for hour 9:00
+[12:12:46][Main thread] Local data ready for 9:00 ready: Ave Temp = 25.16 Ave Humidity = 60
+[12:12:46][Main thread] Turning on relay. Irrigate for 114.60963875695064 seconds
+[12:14:41][Main thread] Turning off relay. Finished irrigation for hour 9:00
+[12:14:41][Main thread] Attempting to get Cimis data for hour 10:00
+[12:14:41][Main thread] Obtained Cimis data for hour 10:00
+Date = 2019-06-10 Hour = 1000 Humidity = 62  Temperature = 24.5 Eto = 0.6
+[12:14:41][Main thread] Attempting to get local data for hour 10:00
+[12:14:41][Main thread] Obtained Local data for hour 10:00
+[12:14:41][Main thread] Local data ready for 10:00 ready: Ave Temp = 25.37 Ave Humidity = 63
+[12:14:41][Main thread] Turning on relay. Irrigate for 111.94285140350958 seconds
+[12:16:33][Main thread] Turning off relay. Finished irrigation for hour 10:00
+[12:16:33][Main thread] Attempting to get Cimis data for hour 11:00
+[12:16:33][Main thread] Obtained Cimis data for hour 11:00
+Date = 2019-06-10 Hour = 1100 Humidity = 49  Temperature = 28.1 Eto = 0.74
+[12:16:33][Main thread] Attempting to get local data for hour 11:00
+[12:16:33][Main thread] Obtained Local data for hour 11:00
+[12:16:33][Main thread] Local data ready for 11:00 ready: Ave Temp = 25.31 Ave Humidity = 61
+[12:16:33][Main thread] Turning on relay. Irrigate for 97.01610015144493 seconds
+[12:18:10][Main thread] Turning off relay. Finished irrigation for hour 11:00
+[13:02:15][Main thread] Cleaning up. Please wait ...
+[13:02:16][Main thread] Program terminated.
